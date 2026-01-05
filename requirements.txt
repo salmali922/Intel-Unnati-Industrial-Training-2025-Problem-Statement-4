@@ -1,0 +1,4 @@
+pdfplumber
+tqdm
+nltk
+spacy

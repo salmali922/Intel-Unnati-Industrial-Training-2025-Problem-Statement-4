@@ -1,0 +1,191 @@
+International Organization for Standardization
+BIBC II, Chemin de Blandonnet 8 , CP 401, 1214 Vernier, Geneva , Switzerland
+Tel: +41 22 749 01 11, Web: www.iso.org
+Guidance on the requirements for Documented Information
+of ISO 9001:2015
+1 Introduction
+Two of the most important objectives in the revision of the ISO 9000 series of standards have been:
+a) to develop a simplified set of standards that will be equally applicable to small as well as
+medium and large organizations, and
+b) for the amount and detail of documentation required to be more relevant to the desired
+results of the organization’s process activities.
+ISO 9001:2015 Quality management systems – Requirements has achieved these objectives, and the
+purpose of this additional guidance is to explain the intent of the new standard with specific regard
+to documented information.
+ISO 9001:2015 allows an organization flexibility in the way it chooses to document its quality
+management system (QMS). This enables each individual organization to determine the correct
+amount of documented information needed in order to demonstrate the effective planning,
+operation and control of its processes and the implementation and continual improvement of the
+effectiveness of its QMS.
+It is stressed that ISO 9001 requires (and always has required) a “Documented quality
+management system”, and not a “system of documents”.
+2 What is documented information? ‐ Definitions and references
+The term Documented information was introduced as part of the common High Level Structure (HLS)
+and common terms for Management System Standards (MSS).
+The definition of documented information can be found in ISO 9000 clause 3.8.
+Documented information can be used to communicate a message, provide evidence of what was
+planned has actually been done, or knowledge sharing.
+The following are some of the main objectives of an organization’s documented information
+independent of whether or not it has implemented a formal QMS;
+a) Communication of Information
+- As a tool for information transmission and communication. The type and extent of the
+documented information will depend on the nature of the organization’s products and
+processes, the degree of formality of communication systems and the level of
+communication skills within the organization, and the organizational culture.
+ISO/TC 176/SC2/N1286 www.iso.org/tc176/sc02/public
+b) Evidence of conformity
+- Provision of evidence that what was planned has actually been done.
+c) Knowledge sharing
+d) To disseminate and preserve the organization’s experiences. A typical example would be a
+technical specification, which can be used as a base for design and development of a new
+product or service.
+A list of commonly used terms and definitions relating to documented information is presented in
+ISO 9001:2015 Annex A.
+It must be stressed that, according to ISO 9001:2015 clause 7.5.3 Control of documented information
+requirements, documents may be in any form or type of medium, and the definition of “document”
+in ISO 9000:2015 clause 3.8.5 gives the following examples:
+− paper
+− magnetic
+− electronic or optical computer disc
+− photograph
+− master sample
+3 ISO 9001:2015 Documentation Requirements
+ISO 9001:2015 clause 4.4 Quality management systems and its processes requires an organization to
+“maintain documented information to the extent necessary to support the operation of processes and
+retain documented information to the extent necessary to have confident that the processes are
+being carried out as planned.”
+Clause 7.5.1 General explains that the quality management system documentation shall include:
+a) documented information required by this International standard;
+b) documented information determined by the organization as being necessary for the
+effectiveness of the quality management system
+The note after this Clause make it clear that the extent of the QMS documented information can
+differ from one organization to another due to the:
+a) size of organization and its type of activities, processes, products and services;
+b) complexity of processes and their interactions,
+c) competence of persons.
+All the documented information that forms part of the QMS has to be controlled in accordance with
+clause 7.5 Documented information.
+4 Guidance on Clause 7.5 of ISO 9001:2015
+The following comments are intended to assist users of ISO 9001:2015 in understanding the intent of
+the general documented information requirements of the International Standard. Documented
+information can refer to:
+ISO/TC 176/SC2/N1286 www.iso.org/tc176/sc02/public
+a) Documented information needed to be maintained by the organization for the purposes of
+establishing a QMS (high level transversal documents). These include:
+− The scope of the quality management system (clause 4.3).
+− Documented information necessary to support the operation of processes (clause 4.4).
+− The quality policy (clause 5.).
+− The quality objectives (clause 6.2).
+− This documented information is subject to the requirements of clause 7.5.
+b) Documented information maintained by the organization for the purpose of communicating
+the information necessary for the organization to operate (low level, specific documents). See
+4.4. Although ISO 9001:2015 does not specifically requires any of them, examples of documents
+that can add value to a QMS may include:
+− Organization charts
+− Process maps, process flow charts and/or process descriptions
+− Procedures
+− Work and/or test instructions
+− Specifications
+− Documents containing internal communications
+− Production schedules
+− Approved supplier lists
+− Test and inspection plans
+− Quality plans
+− Quality manuals
+− Strategic plans
+− Forms
+Where it exists, all such documented information, is also subject to the requirements clause
+7.5.
+c) Documented information needed to be retained by the organization for the purpose of
+providing evidence of result achieved (records). These include:
+− Documented information to the extent necessary to have confidence that the
+processes are being carried out as planned (clause 4.4).
+− Evidence of fitness for purpose of monitoring and measuring resources (clause 7.1.5.1).
+− Evidence of the basis used for calibration of the monitoring and measurement
+resources (when no international or national standards exist) (clause 7.1.5.2).
+− Evidence of competence of person(s) doing work under the control of the organization
+that affects the performance and effectiveness of the QMS (clause 7.2).
+− Results of the review and new requirements for the products and services (clause
+8.2.3).
+− Records needed to demonstrate that design and development requirements have been
+met (clause 8.3.2)
+− Records on design and development inputs (clause 8.3.3).
+− Records of the activities of design and development controls (clause 8.3.4).
+− Records of design and development outputs (clause 8.3.5).
+− Design and development changes, including the results of the review and the
+authorization of the changes and necessary actions (clause 8.3.6).
+− Records of the evaluation, selection, monitoring of performance and re‐evaluation of
+external providers and any and actions arising from these activities (clause 8.4.1)
+ISO/TC 176/SC2/N1286 www.iso.org/tc176/sc02/public
+− Evidence of the unique identification of the outputs when traceability is a requirement
+(clause 8.5.2).
+− Records of property of the customer or external provider that is lost, damaged or
+otherwise found to be unsuitable for use and of its communication to the owner
+(clause 8.5.3).
+− Results of the review of changes for production or service provision, the persons
+authorizing the change, and necessary actions taken (clause 8.5.6).
+− Records of the authorized release of products and services for delivery to the customer
+including acceptance criteria and traceability to the authorizing person(s) (clause 8.6).
+− Records of nonconformities, the actions taken, concessions obtained and the
+identification of the authority deciding the action in respect of the nonconformity
+(clause 8.7).
+− Results of the evaluation of the performance and the effectiveness of the QMS (clause
+911)
+− Evidence of the implementation of the audit programme and the audit results (clause
+9.2.2).
+− Evidence of the results of management reviews (clause 9.3.3).
+− Evidence of the nature of the nonconformities and any subsequent actions taken
+(clause 10.2.2).;
+− Results of any corrective action (clause 10.2.2).
+Organizations are free to develop other records that may be needed to demonstrate
+conformity of their processes, products and services and quality management system.
+Where they exists, all such records are also subject to the requirements clause 7.5.
+5 Organizations preparing to implement a QMS
+For organizations that are in the process of implementing a QMS, and wish to meet the requirements
+of ISO 9001:2015, the following comments may be useful.
+− For organizations that are in the process of implementing or have yet to implement a
+QMS, ISO 9001:2015 emphasizes a process approach. This includes:
+▪ determining the processes necessary for the effective implementation of the
+quality management system
+▪ determining the interactions between these processes.
+▪ documenting the processes to the extent necessary to assure their effective
+operation and control. (It may be appropriate to document the processes using
+process mapping tools. It is emphasized, however, that documented process
+mapping tools are not a requirement of ISO 9001:2015).
+− Analysis of the processes should be the driving force for defining the amount of
+documented information needed for the quality management system, taking into
+account the requirements of ISO 9001:2015. It should not be the documented
+information that drives the processes.
+6 Organizations wishing to adapt an existing QMS
+For organizations that currently have a QMS the following comments are intended to assist in
+understanding the changes to documented information that may be required or facilitated by the
+transition to ISO 9001:2015:
+ISO/TC 176/SC2/N1286 www.iso.org/tc176/sc02/public
+− An organization with an existing QMS should not need to rewrite all of its documented
+information in order to meet the requirements of ISO 9001:2015. This is particularly
+true if an organization has structured its QMS based on the way it effectively operates,
+using a process approach.
+− An organization may be able to carry out some simplification and/or consolidation of
+existing documented information in order to simplify its QMS.
+7 Demonstrating conformity with ISO 9001:2015
+For organizations wishing to demonstrate conformity with the requirements of ISO 9001:2015, for
+the purposes of certification/registration, contractual, or other reasons, it is important to remember
+the need to provide evidence of the effective implementation of the QMS.
+− Organizations may be able to demonstrate conformity without the need for extensive
+documented information
+− To claim conformity with ISO 9001:2015, the organization has to be able to provide
+objective evidence of the effectiveness of its processes and its quality management
+system. Clause 3.8.3 of ISO 9000:2015 defines “objective evidence” as “data supporting
+the existence or verity of something”aand notes that “objective evidence may be
+obtained through observation, measurement, test, or other means.”
+− Objective evidence does not necessarily depend on the existence of documented
+information, except where specifically mentioned in ISO 9001:2015. In some cases, (for
+example, in clause 8.1 (e) Operational planning and control, it is up to the organization
+to determine what documented information is necessary in order to provide this
+objective evidence.
+− Where the organization has no specific documented information for a particular
+activity, and this is not required by the standard, it is acceptable for this activity to be
+conducted using as a basis the relevant clause of ISO 9001:2015. In these situations,
+both internal and external audits may use the text of ISO 9001:2015 for conformity
+assessment purposes.
+ISO/TC 176/SC2/N1286 www.iso.org/tc176/sc02/public

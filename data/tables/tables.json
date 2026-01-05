@@ -1,0 +1,2464 @@
+[
+  {
+    "source_pdf": "1SecurityPolicy 3.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "Information Security Policy \nVersion: 1.0 \n \n \nController General of Defence Accounts \nNew  Delhi"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "1SecurityPolicy 3.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "Algorithm",
+        "Minimum Key Length"
+      ],
+      [
+        "ECDSA",
+        "P-256"
+      ],
+      [
+        "RSA",
+        "2048"
+      ],
+      [
+        "LDWM",
+        "SHA256"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 2,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 3,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 4,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 5,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 6,
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 7,
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 8,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 9,
+    "rows": [
+      [
+        "Non-GAAP adjustment\nor measure",
+        "Definition",
+        "Usefulness to management and investors"
+      ],
+      [
+        "NAND memory business We completed the first closing of the divestiture of our NAND memory",
+        "business to SK hynix on December 29, 2021 and fully deconsolidated our\nongoing interests in the NAND OpCo Business in Q1 2022.",
+        "We exclude the impact of our NAND memory business in certain non-\nGAAP measures. While the second closing of the sale is still pending and\nsubject to closing conditions, we deconsolidated this business in Q1 2022\nand management does not view the historical results of the business as a\npart of our core operations. We believe these adjustments provide\ninvestors with a useful view, through the eyes of management, of our core\nbusiness model and how management currently evaluates core\noperational performance. In making these adjustments, we have not made\nany changes to our methods for measuring and calculating revenue or\nother financial statement amounts."
+      ],
+      [
+        "Acquisition-related\nadjustments",
+        "Amortization of acquisition-related intangible assets consists of\namortization of intangible assets such as developed technology, brands,\nand customer relationships acquired in connection with business\ncombinations. Charges related to the amortization of these intangibles are\nrecorded within both cost of sales and MG&A in our US GAAP financial\nstatements. Amortization charges are recorded over the estimated useful\nlife of the related acquired intangible asset, and thus are generally\nrecorded over multiple years.",
+        "We exclude amortization charges for our acquisition-related intangible\nassets for purposes of calculating certain non-GAAP measures because\nthese charges are inconsistent in size and are significantly impacted by\nthe timing and valuation of our acquisitions. These adjustments facilitate a\nuseful evaluation of our current operating performance and comparison to\nour past operating performance and provide investors with additional\nmeans to evaluate cost and expense trends."
+      ],
+      [
+        "Share-based\ncompensation",
+        "Share-based compensation consists of charges related to our employee\nequity incentive plans.",
+        "We exclude charges related to share-based compensation for purposes of\ncalculating certain non-GAAP measures because we believe these\nadjustments provide better comparability to peer company results and\nbecause these charges are not viewed by management as part of our core\noperating performance. We believe these adjustments provide investors\nwith a useful view, through the eyes of management, of our core business\nmodel, how management currently evaluates core operational\nperformance, and additional means to evaluate expense trends, including\nin comparison to other peer companies."
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-1.pdf",
+    "table_id": 10,
+    "rows": [
+      [
+        "Non-GAAP adjustment\nor measure",
+        "Definition",
+        "Usefulness to management and investors"
+      ],
+      [
+        "Patent settlement",
+        "A portion of the charge from our IP settlements represents a catch-up of\ncumulative amortization that would have been incurred for the right to use\nthe related patents in prior periods. This charge related to prior periods is\nexcluded from our non-GAAP results; amortization related to the right to\nuse the patents in the current and ongoing periods is included.",
+        "We exclude the catch-up charge related to prior periods for purposes of\ncalculating certain non-GAAP measures because this adjustment\nfacilitates comparison to past operating results and provides a useful\nevaluation of our current operating performance."
+      ],
+      [
+        "Optane inventory\nimpairment",
+        "A charge in 2022 as we initiated the wind-down of our Intel Optane\nmemory business.",
+        "We exclude these impairments for purposes of calculating certain non-\nGAAP measures because these charges do not reflect our current\noperating performance. This adjustment facilitates a useful evaluation of\nour current operating performance and comparisons to past operating\nresults."
+      ],
+      [
+        "Restructuring and other\ncharges",
+        "Restructuring charges are costs associated with a formal restructuring\nplan and are primarily related to employee severance and benefit\narrangements. Other charges may include periodic goodwill and asset\nimpairments, certain pension charges, and costs associated with\nrestructuring activity. 2023 includes a benefit as a result of developments\nin the VLSI litigation in Q4 2023, an EC-imposed fine, and a fee related to\nthe termination of our agreement to acquire Tower. 2022 includes a benefit\nrelated to the annulled EC fine and 2021 includes a charge related to the\nVLSI litigation.",
+        "We exclude restructuring and other charges, including any adjustments to\ncharges recorded in prior periods, for purposes of calculating certain non-\nGAAP measures because these costs do not reflect our core operating\nperformance. These adjustments facilitate a useful evaluation of our core\noperating performance and comparisons to past operating results and\nprovide investors with additional means to evaluate expense trends."
+      ],
+      [
+        "(Gains) losses on equity\ninvestments, net",
+        "(Gains) losses on equity investments, net consists of ongoing mark-to-\nmarket adjustments on marketable equity securities, observable price\nadjustments on non-marketable equity securities, related impairment\ncharges, and the sale of equity investments and other.",
+        "We exclude these non-operating gains and losses for purposes of\ncalculating certain non-GAAP measures because it provides better\ncomparability between periods. The exclusion reflects how management\nevaluates the core operations of the business."
+      ],
+      [
+        "(Gains) losses from\ndivestiture",
+        "(Gains) losses are recognized at the close of a divestiture, or over a\nspecified deferral period when deferred consideration is received at the\ntime of closing. Based on our ongoing obligation under the NAND wafer\nmanufacturing and sale agreement entered into in connection with the first\nclosing of the sale of our NAND memory business on December 29, 2021,\na portion of the initial closing consideration was deferred and will be\nrecognized between first and second closing.",
+        "We exclude gains or losses resulting from divestitures for purposes of\ncalculating certain non-GAAP measures because they do not reflect our\ncurrent operating performance. These adjustments facilitate a useful\nevaluation of our current operating performance and comparisons to past\noperating results."
+      ],
+      [
+        "Adjusted free cash flow",
+        "We reference a non-GAAP financial measure of adjusted free cash flow,\nwhich is used by management when assessing our sources of liquidity,\ncapital resources, and quality of earnings. Adjusted free cash flow is\noperating cash flow adjusted for (1) additions to property, plant, and\nequipment, net of proceeds from capital-related government incentives\nand partner contributions, (2) payments on finance leases, and (3)\nproceeds from the McAfee equity sale in 2022.",
+        "This non-GAAP financial measure is helpful in understanding our capital\nrequirements and sources of liquidity by providing an additional means to\nevaluate the cash flow trends of our business. Since the 2017 divestiture,\nMcAfee equity distributions and sales contributed to prior operating and\nfree cash flow, and while the McAfee equity sale in Q1 2022 would have\ntypically been excluded from adjusted free cash flow as an equity sale, we\nbelieve including the sale proceeds in adjusted free cash flow facilitate a\nbetter, more consistent comparison to current and past presentations of\nliquidity."
+      ],
+      [
+        "Total cash and\ninvestments",
+        "Total cash and investments is used by management when assessing our\nsources of liquidity, which include cash and cash equivalents, short-term\ninvestments, and loans receivable and other.",
+        "This non-GAAP measure is helpful in understanding our capital resources\nand liquidity position."
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 2,
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 3,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 4,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 5,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 6,
+    "rows": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 7,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 8,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 9,
+    "rows": [
+      [
+        "Non-GAAP adjustment\nor measure",
+        "Definition",
+        "Usefulness to management and investors"
+      ],
+      [
+        "NAND memory business We completed the first closing of the divestiture of our NAND memory",
+        "business to SK hynix on December 29, 2021 and fully deconsolidated our\nongoing interests in the NAND OpCo Business in the first quarter of 2022.",
+        "We exclude the impact of our NAND memory business in certain non-\nGAAP measures. While the second closing of the sale is still pending and\nsubject to closing conditions, we deconsolidated this business in Q1 2022\nand management does not view the historical results of the business as a\npart of our core operations. We believe these adjustments provide\ninvestors with a useful view, through the eyes of management, of our core\nbusiness model and how management currently evaluates core\noperational performance. In making these adjustments, we have not made\nany changes to our methods for measuring and calculating revenue or\nother financial statement amounts."
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 10,
+    "rows": [
+      [
+        "Non-GAAP adjustment\nor measure",
+        "Definition",
+        "Usefulness to management and investors"
+      ],
+      [
+        "Acquisition-related\nadjustments",
+        "Amortization of acquisition-related intangible assets consists of\namortization of intangible assets such as developed technology, brands,\nand customer relationships acquired in connection with business\ncombinations. Charges related to the amortization of these intangibles are\nrecorded within both cost of sales and MG&A in our US GAAP financial\nstatements. Amortization charges are recorded over the estimated useful\nlife of the related acquired intangible asset, and thus are generally\nrecorded over multiple years.",
+        "We exclude amortization charges for our acquisition-related intangible\nassets for purposes of calculating certain non-GAAP measures because\nthese charges are inconsistent in size and are significantly impacted by\nthe timing and valuation of our acquisitions. These adjustments facilitate a\nuseful evaluation of our current operating performance and comparison to\nour past operating performance and provide investors with additional\nmeans to evaluate cost and expense trends."
+      ],
+      [
+        "Share-based\ncompensation",
+        "Share-based compensation consists of charges related to our employee\nequity incentive plans.",
+        "We exclude charges related to share-based compensation for purposes of\ncalculating certain non-GAAP measures because we believe these\nadjustments provide better comparability to peer company results and\nbecause these charges are not viewed by management as part of our core\noperating performance. We believe these adjustments provide investors\nwith a useful view, through the eyes of management, of our core business\nmodel, how management currently evaluates core operational\nperformance, and additional means to evaluate expense trends, including\nin comparison to other peer companies."
+      ],
+      [
+        "Patent settlement",
+        "A portion of the charge from our IP settlements represents a catch-up of\ncumulative amortization that would have been incurred for the right to use\nthe related patents in prior periods. This charge related to prior periods is\nexcluded from our non-GAAP results; amortization related to the right to\nuse the patents in the current and ongoing periods is included.",
+        "We exclude the catch-up charge related to prior periods for purposes of\ncalculating certain non-GAAP measures because this adjustment\nfacilitates comparison to past operating results and provides a useful\nevaluation of our current operating performance."
+      ],
+      [
+        "Optane inventory\nimpairment",
+        "Beginning in 2022, we initiated the wind-down of our Intel Optane memory\nbusiness.",
+        "We exclude these impairments for purposes of calculating certain non-\nGAAP measures because these charges do not reflect our current\noperating performance. This adjustment facilitates a useful evaluation of\nour current operating performance and comparisons to past operating\nresults."
+      ],
+      [
+        "Restructuring and other\ncharges",
+        "Restructuring charges are costs associated with a formal restructuring\nplan and are primarily related to employee severance and benefit\narrangements. Other charges include a benefit in Q1 2022 related to the\nannulled EC fine, a charge in Q1 2021 related to the VLSI litigation,\nperiodic goodwill and asset impairments, certain pension charges, and\ncosts associated with restructuring activity.",
+        "We exclude restructuring and other charges, including any adjustments to\ncharges recorded in prior periods, for purposes of calculating certain non-\nGAAP measures because these costs do not reflect our core operating\nperformance. These adjustments facilitate a useful evaluation of our core\noperating performance and comparisons to past operating results and\nprovide investors with additional means to evaluate expense trends."
+      ],
+      [
+        "(Gains) losses on equity\ninvestments, net",
+        "(Gains) losses on equity investments, net consists of ongoing mark-to-\nmarket adjustments on marketable equity securities, observable price\nadjustments on non-marketable equity securities, related impairment\ncharges, and the sale of equity investments and other.",
+        "We exclude these non-operating gains and losses for purposes of\ncalculating certain non-GAAP measures because it provides better\ncomparability between periods. The exclusion reflects how management\nevaluates the core operations of the business."
+      ],
+      [
+        "Gains (losses) from\ndivestiture",
+        "Gains (losses) are recognized at the close of a divestiture, or over a\nspecified deferral period when deferred consideration is received at the\ntime of closing. Based on our ongoing obligation under the NAND wafer\nmanufacturing and sale agreement entered into in connection with the first\nclosing of the sale of our NAND memory business on December 29, 2021,\na portion of the initial closing consideration was deferred and will be\nrecognized between first and second closing.",
+        "We exclude gains or losses resulting from divestitures for purposes of\ncalculating certain non-GAAP measures because they do not reflect our\ncurrent operating performance. These adjustments facilitate a useful\nevaluation of our current operating performance and comparisons to past\noperating results."
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-2.pdf",
+    "table_id": 11,
+    "rows": [
+      [
+        "Non-GAAP adjustment\nor measure",
+        "Definition",
+        "Usefulness to management and investors"
+      ],
+      [
+        "Tax Reform",
+        "Adjustments for Tax Reform reflect the impact of a change in tax law from\n2017 Tax Reform related to the capitalization of R&D costs.",
+        "We exclude the impacts of this 2022 change in US tax treatment of R&D\ncosts for purposes of calculating certain non-GAAP measures as we\nbelieve these adjustments facilitate a better evaluation of our current\noperating performance and comparison to past operating results."
+      ],
+      [
+        "Adjusted free cash flow",
+        "We reference a non-GAAP financial measure of adjusted free cash flow,\nwhich is used by management when assessing our sources of liquidity,\ncapital resources, and quality of earnings. Adjusted free cash flow is\noperating cash flow adjusted for (1) additions to property, plant and\nequipment, net of proceeds from capital grants and partner contributions,\n(2) payments on finance leases, and (3) proceeds from the McAfee equity\nsale.",
+        "This non-GAAP financial measure is helpful in understanding our capital\nrequirements and sources of liquidity by providing an additional means to\nevaluate the cash flow trends of our business. Since the 2017 divestiture,\nMcAfee equity distributions and sales have contributed to operating and\nfree cash flow, and while the McAfee equity sale in Q1 2022 would\ntypically be excluded from adjusted free cash flow as an equity sale, we\nbelieve including the sale proceeds in adjusted free cash flow facilitate a\nbetter, more consistent comparison to past presentations of liquidity."
+      ],
+      [
+        "Total cash and\ninvestments",
+        "Total cash and investments is used by management when assessing our\nsources of liquidity, which include cash and cash equivalents, short-term\ninvestments, and loans receivable and other.",
+        "This non-GAAP measure is helpful in understanding our capital resources\nand liquidity position."
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-3.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "Support",
+        "2023\nIn USD",
+        "2022\nIn USD"
+      ],
+      [
+        "Foundations\nIndividuals\nIn-country grants\nIn-kind contributions\nCorporations\nTotal grants and contributions",
+        "8,309,943\n1,690,742\n961,020\n834,977\n19,507\n11,816,189",
+        "1,953,866\n1,762,474\n673,123\n108,500\n53,993\n4,515,956"
+      ],
+      [
+        "Interest and investment\nOther\nForeign currency valuation loss\nTotal other revenue",
+        "(1,251,873)\n30,965\n79,870\n1,362,708",
+        "(3,297,757)\n14,003\n(158,206)\n(3,441,960)"
+      ],
+      [
+        "Total Revenue and Support",
+        "13,178,897",
+        "1,073,996"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-3.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "Organizational Efficiency",
+        "2023\nIn USD",
+        "2022\nIn USD"
+      ],
+      [
+        "Program services\nGeneral and administration\nFundraising",
+        "10,086,639\n1,420,874\n618,313",
+        "8,744,191\n1,531,320\n431,678"
+      ],
+      [
+        "Total Expenses",
+        "12,125,826",
+        "10,707,189"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-3.pdf",
+    "table_id": 2,
+    "rows": [
+      [
+        "Revenue and Expenses Trends",
+        "2019",
+        "2020"
+      ],
+      [
+        "Revenue[*]",
+        "12,886,544",
+        "7,819,728"
+      ],
+      [
+        "Expenses",
+        "6,903,536",
+        "6,763,738"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-3.pdf",
+    "table_id": 3,
+    "rows": [
+      [
+        "2021",
+        "2022",
+        "2023"
+      ],
+      [
+        "27,342,714",
+        "1,073,996",
+        "13,178,897"
+      ],
+      [
+        "8,991,567",
+        "10,707,189",
+        "12,125,826"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-3.pdf",
+    "table_id": 4,
+    "rows": [
+      [
+        "Consolidated Statement of Financial\nPosition\n(For the Year Ended December 31)",
+        "2023\nIn USD",
+        "2022\nIn USD"
+      ],
+      [
+        "Cash and equivalents\nGrants and pledges receivable\nField operating advances\nDue from related party\nPrepaid expenses\nInvestments\nProperty and equipment, net\nSecurity deposit and others\nTotal Assets",
+        "1,637,432\n5,388,896\n574\n-\n141,406\n14,075,770\n3,593,360\n35,428\n24,818,866",
+        "1,620,882\n1,792,423\n28,290\n1,940\n79,570\n16,664,723\n2,943,468\n30,558\n23,161,854"
+      ],
+      [
+        "Accounts payable and accrued expenses\nDeferred revenue\nTotal Liabilities",
+        "312,308\n640,878\n953,186",
+        "282,980\n76,220\n359,200"
+      ],
+      [
+        "Without donor restrictions\nWith donor restrictions\nNet Assets",
+        "17,059,173\n6,806,507\n23,865,680",
+        "21,241,736\n1,560,918\n22,802,654"
+      ],
+      [
+        "Total Liabilities and Net Assets",
+        "24,818,866",
+        "23,161,854"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-3.pdf",
+    "table_id": 5,
+    "rows": [
+      [
+        "Consolidated Statement of Activities and\nChanges in Net Assets\n(For the Year Ended December 31)",
+        "2023\nIn USD",
+        "2022\nIn USD"
+      ],
+      [
+        "Contributions\nGrants\nIn-kind contributions\nInterest investment return, net\nOther\nForeign currency valuation loss\nTotal Revenue and Support",
+        "1,050,833\n8,930,379\n834,977\n1,251,873\n30,965\n(79,870)\n13,178,897",
+        "1,771,872\n2,635,584\n108,500\n(3,297,757)\n14,003\n(158,206)\n1,073,996"
+      ],
+      [
+        "Land management\nSustainable alternative livelihoods\nGovernance and culture\nProgram Services\nGeneral and administration\nFundraising\nSupporting Services\nTotal Expenses",
+        "5,106,916\n1,562,633\n3,417,090\n10,086,639\n1,420,874\n618,313\n2,039,187\n12,125,826",
+        "3,352,084\n1,798,862\n3,593,245\n8,744,191\n1,531,320\n431,678\n1,962,998\n10,707,189"
+      ],
+      [
+        "Change in Net Assets before Translation\nAdjustment\nTranslation Adjustment",
+        "1,053,071\n9,955",
+        "(9,633,193)\n(3,081)"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "annual-3.pdf",
+    "table_id": 6,
+    "rows": [
+      [
+        "Consolidated Statement of Activities and\nChanges in Net Assets\n(For the Year Ended December 31)",
+        "2023\nIn USD",
+        "2022\nIn USD"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Change in Net Assets\nNet Assets, Beginning of Year\nNet Assets, End of Year",
+        "1,063,026\n22,802,654\n23,865,680",
+        "(9,636,274)\n32,438,928\n22,802,654"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "Employee  \nHandbook \n \n \n \n \n \n \n \n \n \n \nFor internal use of employees only. \nNot to be circulated outside Great Lakes, Gurgaon.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "E\n  V\n   E\n   V\nApplicability: All employees of Great Lakes Institute of Management, Gurgaon \nffective Date: 1 Aug 2024\nffective Date: 1 FEB 2024 \nersion: V 4\nersion: V 3",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "I\n  A\n  R\n  E\n1. \nIf an employee believes that he/she has a legitimate work-related complaint, the employee is encouraged \nto first attempt to resolve the issue(s) through discussions with his/her immediate Reporting Officer or \nHuman Resources Department before the conduct becomes severe or pervasive.  \narly  reporting  and  intervention  have  proven  to  be  the  most  effective  method  of  resolving  actual  or \nperceived incidents of discrimination or malpractice. \n \n2. \nIn  case  the  grievance  is  not  addressed,  then  a  written  complaint  can  be  filed  with  HR,  detailing  the \nincidence, concerns etc. This can then be discussed with the Functional Head and try to arrive at a solution.  \n \n3.  When a grievance does not find a solution at the functional level, it can be escalated to the Grievance \nCommittee, which shall undertake a formal investigation of the same.  \n \nInvestigation \nnvestigations will be undertaken by the Grievance Redressal Committee.  \n \n \nGrievance Redressal Committee  \n \nny  reported  allegations  of  harassment,  discrimination,  malpractice  or  retaliation  will  be \ninvestigated \npromptly, thoroughly and impartially.  \nThe  investigation  may  include  individual  interviews  with  the  parties  involved  and,  where  necessary,  with \nindividuals who may have observed the alleged conduct or may have other relevant knowledge. \nConfidentiality  will  be  maintained  throughout  the \ninvestigatory  process  to  the  extent  consistent  with \nadequate investigation and appropriate corrective action. \nesponsive Action \nMisconduct constituting harassment, discrimination, violation of employee policies or retaliation will be dealt \nwith promptly and appropriately.  \n \nResponsive action may include,  \nStage 1: Training, referral to counseling, monitoring of the offender",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "S. No.  \nName  \nStatus  \nContact No.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "1.",
+        "Dr. Poornima Gupta",
+        "Chairperson",
+        "9818130344",
+        ""
+      ],
+      [
+        "",
+        "2.",
+        "Dr.Bappaditya Mukhopadhyaya",
+        "Member",
+        "9810573259",
+        ""
+      ],
+      [
+        "",
+        "3.",
+        "Mr. Samiran Baral",
+        "Member",
+        "9319977107",
+        ""
+      ],
+      [
+        "",
+        "4.",
+        "Ms. Sumiti Shukla",
+        "Member",
+        "9711556704",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 2,
+    "rows": [
+      [
+        "b\nWhere an aggrieved person is unable to make a complaint on account of physical incapacity, a complaint \nmay be filed by- \n\uf0b7 \nhis/her/their relative or friend; or co-worker;  \n\uf0b7 \nor any person who has knowledge of the incident, with the written consent of the aggrieved \nperson  \n \nINTERNAL COMPLAINT COMMITTEE: ANTI- SEXUAL HARASSMENT COMMITTEE (IC) \nEmail ID: safe.ggn@greatlakes.edu.in  \n \nOnce the written complaint has been received, the committee members will check to ensure all the relevant \ndetails are captured and the gravity of the concern ascertained.  \n.  Conciliation \ni. \nBefore initiating an inquiry and at the request of aggrieved person, IC may take steps to settle the \nmatter through conciliation (\u201cConciliation\u201d is a process of settling disputes in a friendly manner by \nbringing opposing sides together to reach a compromise). No monetary settlement shall be made as \na basis for such conciliation. \nii. \nWhere a settlement is arrived at basis conciliation, the IC shall record the settlement so arrived and \nforward the same to the employer to take action as specified in the recommendation. \niii. \nThe IC shall provide the copies of the settlement recorded as stated above to the aggrieved person \nand the respondent. \niv. \nWhere a settlement is arrived at basis conciliation, no further inquiry shall be conducted by the IC. \n \nc. \nProcedure of Inquiry \na. \nIn case where a settlement is not feasible or could not be arrived at through conciliation (refer clause \nb above), the IC will conduct an inquiry into the complaint. Additionally, an inquiry will also be initiated \nif the aggrieved person informs the IC any terms of settlement (refer clause b (ii) above) has not been \ncomplied with by the respondent.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "S. No.  \nName  \nStatus  \nContact No.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "1.",
+        "Dr. Poornima Gupta",
+        "Chairperson",
+        "9818130344",
+        ""
+      ],
+      [
+        "",
+        "2.",
+        "Dr.Bappaditya Mukhopadhyaya",
+        "Member",
+        "9810573259",
+        ""
+      ],
+      [
+        "",
+        "3.",
+        "Mr. Samiran Baral",
+        "Member",
+        "9319977107",
+        ""
+      ],
+      [
+        "",
+        "4.",
+        "Ms. Sumiti Shukla",
+        "Member",
+        "9711556704",
+        ""
+      ],
+      [
+        "",
+        "5.",
+        "Dr. Nidhi Marwaha",
+        "External Member",
+        "9136888888",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 3,
+    "rows": [
+      [
+        "c. \nESIC  \nApplicability: All Employees with a monthly gross salary of equal to or less than Rs.21000/- \nAs per the provisions of the Employee State Insurance Act 1948, employees are provided with medical benefits \nwhich cover the employee, their parents, spouse and dependent children. An ESIC card is issued to the employee \non joining to avail the facility[y.  \nThis is a mandatory deduction for employees who\u2019s monthly gross salary is less than Rs.21000/-. This is a monthly \ndeduction with the contribution from employee & employer. The amount for both the employee and employer \ncontribution is deducted from the employee\u2019s salary.   \n \nd. \nTAX SAVING ALLOWANCES (VOLUNTARY) \nApplicability: All employees as per the Annual Cost to Company (CTC) of the employee   \nWe offer a bunch of Tax- saving allowances for our employees. These can be structured as per the requirements \nof an employee.  \nThese are reimbursements which will be paid every month against supporting bills. Each of the components has \nan annual cap, enlisted below-  \nAnnual Fixed Salary \nMobile (Monthly) \nInternet (Monthly) \nProfessional \nLTA (Monthly) \nDevelopment \nAllowance (Monthly) \n \nHRA \nThis is a monthly component which is extended in lieu of rented accommodation. We offer 50% of the Basic as \nHRA.  \nRent slips need to be submitted for claiming this reimbursement. The Tax- exempted component is calculated as \nthe lowest of the following three-  \n1. Actual HRA Received    \n2. Actual Rent paid minus 10% of Basic    \n3. 40% of Basic \n \nPhone & Internet Allowance \nPhone & internet expenses borne by the employee for official requirements will be reimbursed monthly against \nbills. Please refer to the allowances table for the maximum amount applicable for a given salary range.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Upto \n 10,00,000/-",
+        "750",
+        "750",
+        "2000",
+        "3000",
+        ""
+      ],
+      [
+        "",
+        "Rs.10,00,000- \nRs.20,00,000/-",
+        "1500",
+        "1500",
+        "5000",
+        "4000",
+        ""
+      ],
+      [
+        "",
+        "Above \nRs.20,00,000/-",
+        "2000",
+        "2000",
+        "7000",
+        "5000",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 4,
+    "rows": [
+      [
+        "PERFORMANCE PAY COMPONENT \n \nThis is an annual component which reflective of an employee\u2019s performance.  \nThis would be based upon the actual performance outcomes achieved in the annual cycle, against the KRAs \ndefined  at  the  beginning  of  the  year  (refer  the  Performance  Appraisal  Policy).  The  Performance  Rating \nachieved will determine the amount of Performance Pay given to the employee.   \nA new Performance Payout (Variable) percentage structure has been put in gradual implementation, effective \nOctober  2023.  The  Objective  is  to  create  a  fair,  transparent  and  equitable  compensation  structure  for \nemployees across levels and functions. \nThe new Performance Pay Percentages, in respect of the Annual CTC, is as follows- \n \nEmployees  would  be  given  Performance  Pay  at  the  end  of  the  year  (in  two  cycles-  April  &  October).  This \namount will be fully taxable. \n \nEXTRA TEACHING HOURS PAYMENT TO FACULTY  \n \nApplicability: All the teaching employees  \nFaculty is entitled to additional payments for extra hours taught, research output, academic administration \netc. during the academic year apart from their annual fixed compensation. This is provided to recognize and \nreward additional effort put in by the faculty towards Institute\u2019s teaching requirements. The Program Office, \nin consultation with the faculty and Director\u2019s office, is the custodian of all data pertaining to teaching hours \nfor the faculty. The HR department is the disbursal department for such payments. \nPlease refer to the Faculty Points System (July 2023) document for further details. HR shall provide the faculty \nwith the same.  \n \nTAX REGIME  \n \nEmployees at the time of joining or the start of the Financial cycle can decide on the Tax- regime they would \nlike to follow for the year, the Old or the New. This is to be informed to HR by email.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Annual CTC \n(Lakhs)",
+        ">40 L",
+        "26- 40 L",
+        "16- 25 L",
+        "8- 15 L",
+        "<7 L",
+        ""
+      ],
+      [
+        "",
+        "Performance \nPay (%)",
+        "12.50%",
+        "10%",
+        "7.50%",
+        "5%",
+        "0",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 5,
+    "rows": [
+      [
+        "Type, Entitlement and Accrual \nLeave \nAnnual Entitlement \nMaximum Accrual \nEarned Leave \n15 \n30 \nCasual Leave \n9 \n0 \nMedical Leave \n7 \n28 \nMaternity Leave \n26 weeks \nPaternity Leave  \n2 weeks \n \nEarned Leave (EL) \nOnce an employee is confirmed after the probation period, they will receive 1.25 ELs per month. This will be \ncredited to their account at the end of every month. If an employee completes their probation during a given \nmonth, EL at the end of the month will be credited on a prorated basis depending on when in the month the \nemployee\u2019s probation period ended.  \nDuring the probation period an employee is not eligible for any EL.  \nAccumulation of ELs is permitted till it reaches a limit of 30 after which no further accumulation will occur. For \nnon- teaching employees, the accumulated leaves which are above 30 days, may be encashed at the end of \nthe Calendar year. The encashment is calculated basis the average figure of Basic component, over the period \nof last 10 months.  \nEL is also encashed at the time of termination, resignation, retirement/ completion of contract, in alignment \nwith the above calculation. ELs can be adjusted in the notice period. While serving the notice period, post \nresignation, an employee can avail Earned Leave upto 1.5 days per month.  \n \nCasual Leave (CL) \nAll employees will receive 0.75 CLs per month including during the period of probation. 4.5 CLs will be credited \nto the employees\u2019 accounts in advance for the next 6 months on January 1 and July 1 of each year.  \nFor employees who join at any given time during a year the number of CLs to be credited will be prorated at \nthe rate of 0.75 CLs per month for the time remaining till the next CL crediting date. An employee can avail at \nthe max 3 CLs at a time.  \nCLs can accumulate during a calendar year, but lapse at the end of the calendar year. No encashment of CLs \nare permitted. \nWhile serving the notice period, post resignation, an employee will not be able to avail Casual Leave. \n \nMedical Leave (ML) \nOnce  an  employee  is  confirmed  after  the  probation  period,  they  will  receive  7  MLs  per  year.  This  will  be \ncredited to their account in advance for the year on January 1 of each year. For employees who join at any \ngiven time during a year the number of MLs to be credited will be prorated at the rate of 7 CLs per year for \nthe time remaining till the next ML crediting date.",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 6,
+    "rows": [
+      [
+        "L\nDOMESTIC TRAVEL EXPENSES \nodging  \nLodging expenses can be reimbursed, upto the expenses incurred for official purposes. Any personal expenses \nor expenses incurred beyond the permissible policy guidelines, are to be settled by the employee directly.  \nThe entitlements for travel as per the Great Lakes policy is as follows-  \nLocal \nCategory \nHotel \nMeals \nTravel mode \nConveyance \nA2 \n \n\uf0b7 \nMeals  \u2013  Great  Lakes  will  reimburse  all  reasonable  and  necessary  expenses  undertaken  for  Official \nbusiness.  \n\uf0b7 \nOutstation local travel \u2013 Reimbursements can be made as per the actual expenses incurred, as long as \nthey are reasonable expenses.  \n \nCash Advance \n\uf0b7 \nNon-managerial staff may take an advance, which should be calculated keeping in view the destination \nand amount of expenditure one is likely to incur.  \n\uf0b7 \nTravel advance should be adjusted within 7 days after completion of travel by submitting all travel \nrelated bills. If this is not done, the institute will have a right to recover the advance from the salary \nof the employee. \n\uf0b7 \nAcademic staff and managerial staff are expected not to take any advance but claim reimbursements \nlater once expenses are incurred.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A1",
+        "Not \nexceeding \nRs. 10,000 \nper  night",
+        "Reimbursed  \non  actuals",
+        "Less than 6 hours \ntravel time: Air travel \nEconomy Class \nMore than 6 hours \ntravel time: Air travel \nBusiness Class",
+        "Taxi",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Not \nexceeding \nRs. 7,500 \nper    night",
+        "Reimbursed \non  actuals",
+        "Air travel Economy class \nor  II AC Train",
+        "Taxi",
+        ""
+      ],
+      [
+        "",
+        "A3",
+        "Not \nexceeding \nRs. 6,000 \nper   night",
+        "Reimbursed  \non  actuals",
+        "Air travel Economy \nclass  or  III AC Train",
+        "Taxi",
+        ""
+      ],
+      [
+        "",
+        "A4",
+        "Not \nexceeding \nRs. 4,000 \nper night",
+        "Reimbursed  \non  actuals",
+        "Air travel Economy \nclass  or  III AC Train",
+        "Taxi",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 7,
+    "rows": [
+      [
+        "F\n\uf0b7 \nIn case of multiple applications allotment will be done on the following parameters in that order of \npriority. \n\uf0b7 \nThough  the  allotment  will be  on  the  basis  of the  number of  years  of  services  rendered  in  GL,  the \ninstitute reserves the right to allot the quarters on out of turn priority taking into consideration the \nneed for doing so. When the type of quarters entitled is not available, a lower type of quarters may \nbe offered by the Management. \nURNISHINGS PROVIDED ALONG WITH THE ACCOMMODATION \n \na. \nFollowing facilities are provided along with the accommodation which is either \u201cNon Transferable\u201d or \n\u201cTransferable\u201d as mentioned herein below in the table. \nb.  Non Transferable assets are provided at the cost of the Institute and forms part of the building and \nare  the  property  of  the  Institute  permanently.  Transferable  assets  denote  the  assets  that  may  be \nprocured by the occupant at his/her option based on their eligibility and other conditions mentioned \nin para below. \n \nType C \nType B & A \n \n \nRECOVERY OF RENT FROM THE OCCUPANT \n \na. \nThe occupants will not  be entitled for HRA from  the date of occupation of the Quarters. The HRA \nforming part of their remuneration will be converted as \u201cCampus Allowance\u201d. \nb. \nThe Institute will recover the following amounts towards the cost of accommodation & furnishings. \nFor Income Tax purposes the perquisite value of free accommodation and furnishings provided to the \noccupants as per the valuation rules prescribed under the Income Tax Act 1961 for the time being in \nforce will be computed and appropriate tax deducted. \nCategory \nType C \nType B \nType A \nRecovery Per Month \nRs.2000*,( max 2 \nRs 3000/- \nRs 5000/- \nPer Flat. \npeople in a room) \n \n*Waiver is permitted if approved by Director. \nRules governing other facilities & recoveries thereof",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Non- \nTransferable",
+        "1. \nAir Conditioner- 1 no \n1. \nAir  Conditioner-  1  no \n(Master \nRoom) \n2. \nFans- All Rooms \n2. \nFans- All Rooms \n3. \nLight Fittings \n3. \nLight Fittings- all rooms \n4. \nCommon Kitchen Cabinet \n5. \nKitchen Cabinet \n6.  Wardrobe - room \n6.  Wardrobes  \n7. \nCurtain Rods \n7. \nCurtain Rods \n8. \nShared toilet  \n8.  Dedicated toilet",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 8,
+    "rows": [
+      [
+        "F\nOTHER CHARGES \n \na. \nAll quarters are provided with individual electricity meters and allottees have to pay the charges at \ntariff at present Rs.10 per Unit on actual usage. In absence of individual meters, the recovery will be \nas below \nCategory \nType C \nType B \nType A \n \nb. \nThe Institute will not provide any packaged drinking water. \nc. \nFor common Area maintenance  (inclusive of electricity in common areas)  following flat  fee will be \nrecovered Type C Type B Type A: Rs.200 PM Rs.500 PM Rs.750 PM \nd. \nTelephone expenses \u2013At present no telephone connection is there. \ne. \nConveyance \u2013 The institute will not provide any conveyance to go to city or any place otherwise than \non official duty. However, the occupant may choose to travel by the regular staff vehicle, subject to \navailability of seats, for which no charges will be recovered. \nf. \nVehicle/Ambulance would be provided to go to the specific hospital with whom the Institute is having \narrangement, in case of any emergency. \ng. \nInternet expenses would be borne by the Institute. \nh. \nAll local taxes like property tax, land tax, municipal tax etc. would be paid by the institute. \nood and Beverages \n \na. \nThe Institute does not undertake to serve food and beverages in the residence. The faculty & staff on \nrolls are entitled to take food in the canteen, as applicable to all employees of the Institution during \nworking hours on Normal working days. \nb. \nIn  case  of  exigencies,  if  the  food  is  requested  to  be  served  in  the  residence,  the  occupant  will  be \ncharged at the rate of twice the cost the Institute actually incurs. \n \nOTHER RULES AND REGULATIONS \n \na. \nAll  the  NON  TRANSFERABLE  fixed  assets  provided  by  the  Institute  would  be  maintained  by  the \ninstitute. \nb. \nAll TRANSFERABLE furnishings have to be maintained by the occupants.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Recovery Per \nMonth Per Flat",
+        "Rs 1000/-(distributed \nbetween no. of \npeople residing, max \n2 people \nin a room)",
+        "Rs 1250/-",
+        "Rs 1500/-",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 9,
+    "rows": [
+      [
+        "REIMBURSEMENT DECLARATION FORM \n \nEmployee Name:  \n \nEmployee Code:  \nDate:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Type of Reimbursement",
+        "Monthly Claim Amount Intended",
+        ""
+      ],
+      [
+        "",
+        "Phone & Internet",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Formal Attire Allowance",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Professional Development",
+        "",
+        ""
+      ],
+      [
+        "",
+        "LTA",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 10,
+    "rows": [
+      [
+        "EMPLOYEE HEALTH INSURANCE  \n \n \n \nNAME ADDITION IN GROUP MEDICLAIM \n \n \nS.No. \nEmp. \nName \nDate of Joining \nGender \nLocation \nDOB(DD/MM/YYYY) \nCode \n(DD/MM/YYYY) \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n \n \n \n \n \n \n \nGrade \nSum \nMarital \nDate of Marriage  \nSpouse \nGender \nDOB \nInsured \nStatus \n(DD/MM/YYYY) \nName \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n \n \n \n \n \n \n \nName \nGender \nDOB \nName of Kid 2 \nGender \nDOB \n \nof Kid \n1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 11,
+    "rows": [
+      [
+        "HOLIDAY CALENDAR 2024 \n \nCONFIRMED HOLIDAYS  \nOccasion \nDate \nDay \nNew Year \n01-Jan-24 \nMonday \nRepublic Day \n26-Jan-24 \nFriday \nHoli \n25-Mar-24 \nMonday \nRamzan/ Id-ul- Fitr \n11-Apr-24 \nThursday \nIndependence Day \n15-Aug-24 \nThursday \nJanmashtami \n26-Aug-24 \nMonday \nGandhi Jayanti \n02-Oct-24 \nWednesday \nDiwali \n31-Oct-24 \nThursday \nHaryana Day \n01-Nov-24 \nFriday \nChristmas \n25-Dec-24 \nWednesday \n \nRESTRICTED HOLIDAYS (OPTIONAL)* \n *Employees can avail 2 Restricted Holidays in a Year.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Occasion",
+        "Date",
+        "Day",
+        ""
+      ],
+      [
+        "",
+        "Good Friday",
+        "29-Mar-24",
+        "Friday",
+        ""
+      ],
+      [
+        "",
+        "Ram Navami",
+        "17-Apr-24",
+        "Wednesday",
+        ""
+      ],
+      [
+        "",
+        "Buddha Purnima",
+        "23-May-24",
+        "Thursday",
+        ""
+      ],
+      [
+        "",
+        "Id- Ul- Zuha",
+        "17-Jun-24",
+        "Monday",
+        ""
+      ],
+      [
+        "",
+        "Raksha Bandhan",
+        "19-Aug-24",
+        "Monday",
+        ""
+      ],
+      [
+        "",
+        "Mahashtami",
+        "11-Oct-24",
+        "Friday",
+        ""
+      ],
+      [
+        "",
+        "Guru Nanak Birthday",
+        "15-Nov-24",
+        "Friday",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "eh-2.pdf",
+    "table_id": 12,
+    "rows": [
+      [
+        "PERFORMANCE RATING SCALE",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "PERFORMANCE \nRATING DEFINITION \nRATING",
+        "",
+        ""
+      ],
+      [
+        "",
+        "CHAMPION (5)",
+        "\u2022 \nConsistently Exceeds Goal requirements  \n\u2022 \nExceptional performer, sets new performance standards  \n\u2022 \nTakes initiative and reaches out to aid team members  \n\u2022 \nContributes towards institution building opportunities, with a \nstrategic  understanding of the organizational requirements",
+        ""
+      ],
+      [
+        "",
+        "LONG STRIDER (4)",
+        "\u2022 \nFulfills the goals and exceeds goal requirements often \n\u2022 \nAids the team in working towards the goals  \n\u2022 \nAt times contributes towards institution building initiatives \n\u2022 \nHas a partial understanding of organizational requirements",
+        ""
+      ],
+      [
+        "",
+        "EMERGING (3)",
+        "\u2022 \nMeet the goal requirements, at times might exceed expectations \n\u2022 \nOccasionally takes initiative to help team members  \n\u2022 \nMentoring, coaching can help address developmental \nrequirements",
+        ""
+      ],
+      [
+        "",
+        "AMATEUR (2)",
+        "\u2022 \nMeets most goal requirements, at times falls short of role \nrequirements \n\u2022 \nNeeds periodic hand holding to deliver results",
+        ""
+      ],
+      [
+        "",
+        "PULL UP(1)",
+        "\u2022 \nDelivers unsatisfactory performance \n\u2022 \nDoes not meet goal requirements most of the times \n\u2022 \nNeeds help with delivering the basic role requirements",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "Information Security Policy 2.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "Standard Number",
+        "Author",
+        "Revision Date",
+        "Revision Content"
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "information-security-5.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "www.bowiestate.edu",
+        "",
+        ""
+      ],
+      [
+        "Information Security Program",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Program Overview #",
+        "1.0",
+        "Effective \nDate",
+        "11-2014",
+        "",
+        "Email",
+        "infosec@bowiestate.edu"
+      ],
+      [
+        "Version",
+        "1.1",
+        "Contact",
+        "John \nHusfield",
+        "",
+        "Phone",
+        "301-860-3934"
+      ],
+      [
+        "BSU Policies",
+        "Section VI :15.09; 15.10; 15.11; 15.12; 15.13; 15.14; 15.21; 15.22; 15.23; 15.24",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Standards/Regulations \nAddressed",
+        "Standards/Regulations \nControls",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "USM Security \nNIST 800-53 specific controls cited in specific rules and \nStandards v3 \nprocedures.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "information-security-5.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "Created By",
+        "Title",
+        "Date",
+        "Signature"
+      ],
+      [
+        "John Husfield",
+        "Info Assurance Analyst",
+        "10-2014",
+        "JCH"
+      ],
+      [
+        "Approved By",
+        "Title",
+        "Date",
+        "Signature"
+      ],
+      [
+        "IT Security Committee",
+        "Information Security",
+        "11-2014",
+        "SM, JH, MW, WR"
+      ],
+      [
+        "E Wayne Rose",
+        "BSU VP/CIO",
+        "11-2014",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "information-security-5.pdf",
+    "table_id": 2,
+    "rows": [
+      [
+        "Version",
+        "Revision Date",
+        "Review Date",
+        "Description"
+      ],
+      [
+        "1.1",
+        "July 2015",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "iso-2.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "T\nerm",
+        "ISO 9000:2005 \nClause",
+        "Definition"
+      ],
+      [
+        "Document",
+        "3.7.2",
+        "information and its supporting medium"
+      ],
+      [
+        "Procedure",
+        "3.4.5",
+        "specified way to carry out an activity or a process  (Note: \nProcedures can be documented or not)"
+      ],
+      [
+        "Quality Manual",
+        "3.7.4",
+        "document specifying the quality management system of an \norganization"
+      ],
+      [
+        "Quality Plan",
+        "3.7.5",
+        "document specifying which procedures and associated \nresources shall be applied by whom and when to a specific \nproject, product, process or contract"
+      ],
+      [
+        "Record",
+        "3.7.6",
+        "document stating results achieved or providing evidence of \nactivities performed"
+      ],
+      [
+        "Specification",
+        "3.7.3",
+        "document stating requirements"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "iso-2.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "Clause",
+        "Record required"
+      ],
+      [
+        "5.6.1",
+        "Management reviews"
+      ],
+      [
+        "6.2.2 e)",
+        "Education, training, skills and experience"
+      ],
+      [
+        "7.1 d)",
+        "Evidence that the realization processes and resulting product fulfil \nrequirements"
+      ],
+      [
+        "7.2.2",
+        "Results of the review of requirements related to the product and actions \narising from the review"
+      ],
+      [
+        "7.3.2",
+        "Design and development inputs relating to product requirements"
+      ],
+      [
+        "7.3.4",
+        "Results of design and development reviews and any necessary actions"
+      ],
+      [
+        "7.3.5",
+        "Results of design and development verification and any necessary actions"
+      ],
+      [
+        "7.3.6",
+        "Results of design and development validation and any necessary actions"
+      ],
+      [
+        "7.3.7",
+        "Results of the review of design and development changes and any necessary \nactions"
+      ],
+      [
+        "7.4.1",
+        "Results of supplier evaluations and any necessary actions arising from the \nevaluations"
+      ],
+      [
+        "7.5.2 d)",
+        "As required by the organization to demonstrate the validation of processes \nwhere the resulting output cannot be verified by subsequent monitoring or \nmeasurement"
+      ],
+      [
+        "7.5.3",
+        "The unique identification of the product, where traceability is a requirement"
+      ],
+      [
+        "7.5.4",
+        "Customer property that is lost, damaged or otherwise found to be unsuitable \nfor use"
+      ],
+      [
+        "7.6 a)",
+        "Basis used for calibration or verification of measuring equipment where no \ninternational or national measurement standards exist"
+      ],
+      [
+        "7.6",
+        "Validity of the previous measuring results when the measuring equipment is \nfound not to conform to requirements"
+      ],
+      [
+        "7.6",
+        "Results of calibration and verification of measuring equipment"
+      ],
+      [
+        "8.2.2",
+        "Internal audit results and follow-up actions"
+      ],
+      [
+        "8.2.4",
+        "Indication of the person(s) authorizing release of product."
+      ],
+      [
+        "8.3",
+        "Nature of the product nonconformities and any subsequent actions taken, \nincluding concessions obtained"
+      ],
+      [
+        "8.5.2 e)",
+        "Results of corrective action"
+      ],
+      [
+        "8.5.3 d)",
+        "Results of preventive action"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy 4.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "POLICY SIGN-OFF AND OWNERSHIP DETAILS",
+        ""
+      ],
+      [
+        "D\nocument name:",
+        "IT Security Policy"
+      ],
+      [
+        "Version Number:",
+        "8.0"
+      ],
+      [
+        "Equality Impact Assessment:",
+        "December 2018 (initial) \nApril 2023 (last review)"
+      ],
+      [
+        "Approved by:",
+        "SLT"
+      ],
+      [
+        "Effective from:",
+        "30 September 2025"
+      ],
+      [
+        "Date for Review:",
+        "May 2026"
+      ],
+      [
+        "Author:",
+        "Information Security Manager"
+      ],
+      [
+        "Owner (if different from above):",
+        ""
+      ],
+      [
+        "Document Location:",
+        "https://www.hud.ac.uk/media/policydocuments/IT-\nSecurity-Policy.pdf"
+      ],
+      [
+        "Compliance Checks:",
+        "Results of annual and/or other Security Testing \n(including penetration testing)."
+      ],
+      [
+        "Related Policies/Procedures:",
+        "IT security Procedure Manual \n\u2022 \nComputing Regulations \n\u2022 \nUsing Your Own Device Policy \n\u2022 \nData Protection Policy \n\u2022 \nResearch Integrity and Ethics Policy \n\u2022 \nRetention and Disposal Schedule \n\u2022 \nGuidance on Managing Emails \n\u2022"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy 4.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "REVISION HISTORY",
+        "",
+        "",
+        ""
+      ],
+      [
+        "V\nersion",
+        "Date",
+        "Revision \ndescription/Summary of \nchanges",
+        "Author"
+      ],
+      [
+        "V1.0",
+        "October \n2017",
+        "First draft using Policy \nFramework.  Minor drafting \nupdates.",
+        "Head of BQP"
+      ],
+      [
+        "V2.0",
+        "December \n2018",
+        "Additional links to policies added \n(DP Act 2018 and Uni DP policy) \nWorking practices section - \napplies to mobile devices as well \nas desktops \nClarity on email attachments \nthat should be password \nprotected (external only) \nReferences to Phishing",
+        "Information Security Manager"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy 4.pdf",
+    "table_id": 2,
+    "rows": [
+      [
+        "",
+        "",
+        "Inclusion of removable media in \ndisposal section \nPrivacy filter explicitly mentioned \nin travelling section \nPIAs now checked by Records \nManagement instead of DP \nofficer",
+        ""
+      ],
+      [
+        "V3.0",
+        "Feb 2020",
+        "Updated links \nReference to Touch-ID and \nFace-ID in travelling section \nReplaced reference to ITSG with \nSPPIB",
+        "Information Security Manager"
+      ],
+      [
+        "V4.0",
+        "Mar 2021",
+        "Adjustments to text. \nAddition of user types and \ncloud-based environments to \nscope. \nAddition of email auto-\nforwarding controls and USB \nstorage avoidance to 3.2. \nAddition of MFA to 4.2. \nAddition of supplier controls to \n5.1 \nAddition of Software to 6.4. \nExplicit reference to recording \nactions by user IDs 7.2. \nAddition of 6.6 \u2013 Security \nTesting \nAddition of new 9.3 \u2013 Privileged \nAccess Accounts \nAddition of network design and \nfirewall usage to 9.5. \nAddition of log export to SIEM to \n9.6. \nAddition of 9.7 to include \nsystems patching requirement.",
+        "Information Security Manager"
+      ],
+      [
+        "V5.0",
+        "Mar 2022",
+        "Minor adjustments to text. \nChange to use of OneDrive \nClient on staff owned computers \n4.2 \nAddition of Wi-Fi guidance 4.2 \nAddition of new starter password \ndistribution guidance 7.4 \nAddition of 9.8 \u2013 University \nDevice Management",
+        "Information Security Manager"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy 4.pdf",
+    "table_id": 3,
+    "rows": [
+      [
+        "V6.0",
+        "Mar 2023",
+        "Minor adjustments to text. \nSystem owner processes for \naccount management 6.2 \nAddition of Secure Configuration \nand System Hardening 8.2 \nReinforcement of system \nowner responsibilities in 9.7 \nInclude BYOD registration \nstatement to 9.8",
+        "Information Security Manager"
+      ],
+      [
+        "V7.0",
+        "Apr 2024",
+        "Addition of reference to Cloud \nsystem to 3.9 \nAddition of generative artificial \nintelligence (AI) guidance 3.12 \nClarify usage restrictions for \nsupplier RAAs 5.1 \nAddition of employee \nresponsibilities for physical \nsecurity 6.1 \nAddition of 6.7 - Protection from \nComputer Viruses and Malware \nUpdate to password and MFA \nrequirements 7.2 \nSystem owner requirement to \nreview and change system \npasswords 7.3 \nAddition of requirement for local \nfirewall on University computer \nsystems 8.2 \nAddition of VPN statement 9.2 \nReinforce operating system \nelement of 9.7. including steps \nto remove these from network. \nAddition of system \ndecommissioning 9.9",
+        "Information Security Manager"
+      ],
+      [
+        "V8.0",
+        "Jun 2025",
+        "Updated Policy links where \nrequired \nAddition of new paragraph to 3.5 \nrelating to Cloud storage \napplication installs \nRewording of 6.4 and 9.4 to \nprovide clearer definition of \nsegregation of Test and Live \ndata requirements \n7.5 \u2013 Added that user accounts \nmay be suspended for account",
+        "Information Security Manager"
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy 4.pdf",
+    "table_id": 4,
+    "rows": [
+      [
+        "",
+        "",
+        "holders that do not fully \ncomplete their IT Security \nAwareness Training. \nAdditions to 8.2 to increase \nsystem hardening practices and \nreduce attack surface. \nRetitle of 9.7 to better align to \nupdated Cyber Essentials \nterminology. \nReinforce end of support \napplications element of 9.7. \nincluding steps to remove these \nfrom network \n9.8 \u2013 Addition prohibits the \ndevice user from disabling or \nmaking changes mobile device \nmanagement (MDM) systems \nplaced on devices \nNew Section 9.10 highlights the \nability to undertake remote wipe \nof University owned devices",
+        ""
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy-1.pdf",
+    "table_id": 0,
+    "rows": [
+      [
+        "Term/Acronym",
+        "Definition"
+      ],
+      [
+        "Access Control",
+        "The process of limiting access to the resources of a system only to authorized users, \nprograms, processes, or other systems."
+      ],
+      [
+        "Anonymized Data",
+        "Data that has been produced as the output of a PII anonymization process."
+      ],
+      [
+        "Audit Trail",
+        "A \nchronological \nrecord  of \nsystem  activities \nthat \nis \nsufficient \nto  enable \nthe \nreconstruction, \nreview,  and  examination  of \nthe  sequence  of  environments  and \nactivities  surrounding  or  leading  to  an  operation,  a  procedure,  or  an  event  in  a \ntransaction from its inception to completion."
+      ],
+      [
+        "Authenticate",
+        "To verify the identity of a user, device, or other entity in a computer system, often as a \nprerequisite to allowing access to resources in a system."
+      ],
+      [
+        "Authorization",
+        "The granting of access rights to a user, program or process, which is enforced by \nAccess Control."
+      ],
+      [
+        "Data Breach",
+        "Refer to iCIMS Incident Response Policy & Process"
+      ],
+      [
+        "Deidentified Data",
+        "Information that cannot reasonably identify, relate to, describe, be capable of being \nassociated with, or be linked, directly or indirectly, to a particular individual, provided \nthat an organization that uses Deidentified Data: (1) has implemented technical \nsafeguards that prohibit reidentification of the individual to whom the information may \npertain; (2) has implemented processes that specifically prohibit reidentification of the \ninformation; (3) has implemented processes to prevent inadvertent release of \nDeidentified Data; and (4) makes no attempt to reidentify the information."
+      ],
+      [
+        "De-Militarized Zone (DMZ)",
+        "A  physical  or \nlogical  subnetwork \nthat  contains  and  exposes  an  organization's \nexternally facing services to a larger and untrusted network, usually the Internet."
+      ],
+      [
+        "Disaster Recovery Plan",
+        "A  documented  process  or  set  of  procedures  to  recover  and  protect  a  business  IT \ninfrastructure in the event of a disaster."
+      ],
+      [
+        "Discretionary Access Control",
+        "A means of restricting access to objects based upon the identity and need to know of \nthe user, process, and/or groups to which they belong."
+      ],
+      [
+        "File Security",
+        "The means by which access to computer files is limited to authorized users only."
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy-1.pdf",
+    "table_id": 1,
+    "rows": [
+      [
+        "Firewall",
+        "A device and/or software that prevents unauthorized and improper transit of access \nand information from one network to another."
+      ],
+      [
+        "FTP or File Transfer Protocol",
+        "Protocol that allows files to be transferred using TCP/IP."
+      ],
+      [
+        "Hub",
+        "Network device for repeating network packets of information around the network."
+      ],
+      [
+        "Identification",
+        "The process that enables recognition of an entity by a system, generally by the use of \nunique machine-readable usernames."
+      ],
+      [
+        "Internet",
+        "Worldwide \ninformation  service,  consisting  of  computers  around \nthe  globe \nlinked \ntogether."
+      ],
+      [
+        "Independent Party",
+        "An  internal  resource  or  external  third-party  that  functions  independently  from  the \nmanagement and implementation of security policies, processes, and controls."
+      ],
+      [
+        "Information Security",
+        "Department  responsible  for  ensuring  the  implementation  and  execution  of  iCIMS \ninformation security management systems (ISMS)."
+      ],
+      [
+        "IT Administrator",
+        "Individual responsible for the upkeep, configuration, security, and reliable operation of \ncomputer systems."
+      ],
+      [
+        "IT Department",
+        "Departments within iCIMS responsible for the management of IT systems, including \nservers, workstations, mobile devices, and network infrastructure."
+      ],
+      [
+        "Laptop",
+        "Small, portable computer or tablet."
+      ],
+      [
+        "Mandatory Access Control",
+        "A means of restricting access to objects based upon the sensitivity of the information \ncontained in the objects and the formal authorization of subjects to access information \nof such sensitivity."
+      ],
+      [
+        "Network Time Protocol (NTP)",
+        "Used  to  synchronize  the  time  of  a  computer  client  or  server  to  another  server  or \nreference time source, such as a radio or satellite receiver or modem."
+      ],
+      [
+        "Password",
+        "A protected, private character string used to authenticate an identity."
+      ],
+      [
+        "Personal Data",
+        "Refer to iCIMS Incident Response Process"
+      ],
+      [
+        "Personal Identifiable Information  \n(PII)",
+        "Refer to iCIMS Incident Response Process"
+      ],
+      [
+        "Principle of Least Privilege",
+        "Restricting access to systems and data based on job role or function while ensuring \nthat no additional, unneeded access is granted."
+      ],
+      [
+        "Private Branch Exchange (PBX)",
+        "Small telephone exchange used internally within a company."
+      ],
+      [
+        "Pseudonymized Data",
+        "Process applied to PII which replaces identifying information with an alias."
+      ],
+      [
+        "Security Event",
+        "Refer to iCIMS Incident Response Process"
+      ],
+      [
+        "Security Incident",
+        "Refer to iCIMS Incident Response Process"
+      ],
+      [
+        "Security Incident Response Team \n(SIRT)",
+        "Refer to iCIMS Incident Response Process"
+      ],
+      [
+        "Security Vulnerability",
+        "Refer to iCIMS Incident Response Process"
+      ],
+      [
+        "Security Weakness",
+        "Refer to iCIMS Incident Response Process"
+      ],
+      [
+        "Shareware",
+        "Software  for  which  there  is  no  charge,  but  a  registration  fee  is  payable  if  the  user \ndecides to use the software. Often downloaded from the Internet or available from PC \nmagazines.  Normally  not  that  very  well  written  and  often  adversely  affects  other \nsoftware."
+      ],
+      [
+        "Sensitive Company (SCI)",
+        "Means any record, whether in paper, electronic, or other form, that includes \nany one or more of the following elements in relation to iCIMS or \nits Personnel: \n\u2022 \nPro-forma financials and budget details. \n\u2022 \nBoard meeting minutes and non-public governance documents. \n\u2022 \nCapitalization table, including supporting details regarding any equity grant. \n\u2022 \nStrategic planning minutes and/or presentations. \n\u2022 \nSource code. \n\u2022 \nCompensation for current and past Personnel. \n\u2022 \nInvestigation records of current and past Personnel. \n\u2022 \nCurrent and past Personnel assessments and development plans, including \nspecific scores and feedback; and/or \n\u2022 \nRisk management non-conformities and identified risks."
+      ]
+    ]
+  },
+  {
+    "source_pdf": "IT-Security-Policy-1.pdf",
+    "table_id": 2,
+    "rows": [
+      [
+        "",
+        "Sensitive  Company \nInformation  shall  not  include  (i)  source  code  required  to  be \ndisclosed as part of iCIMS\u2019s registration with the U.S. Copyright Office; (ii) quarterly \ndisclosure  guidance  and/or \nresults  and  metrics  on  an \nindividual, \nteam,  and \ndepartment, and company-wide basis with respect to financials and budget details, or \n(iii) compensation or performance information that is anonymous as to the current or \npast employee/intern. For clarity, excluded compensation or performance information \nmust be anonymous as to the current or past employee/intern, must not reasonably be \nlinked back to a current or past employee/intern, and must not contain any Personal \nData."
+      ],
+      [
+        "Subscriber Data",
+        "Refer to iCIMS Subscription Agreement."
+      ],
+      [
+        "Telnet",
+        "Protocol that allows a device to login to a UNIX host using a terminal session."
+      ],
+      [
+        "Uninterruptable Power Supply \n(UPS)",
+        "Device containing batteries that protects electrical equipment from surges in the main \npower and acts as a temporary source of power in the event of a main power failure."
+      ],
+      [
+        "Username",
+        "A unique symbol or character string that is used by a system to identify a specific user."
+      ],
+      [
+        "Virtual Private Network (VPN)",
+        "A network that extends a private network across a public network, such as the Internet."
+      ],
+      [
+        "Virus",
+        "Computer  software  that  replicates  itself  and  often  corrupts  computer  programs  and \ndata."
+      ],
+      [
+        "Voice Mail",
+        "Facility which allows callers to leave voice messages for people who are not able to \nanswer their phone. The voice messages can be played back later."
+      ],
+      [
+        "Wide Area Network (WAN)",
+        "A \ntelecommunications  network  or  computer  network \nthat  extends  over  a \nlarge \ngeographical distance."
+      ]
+    ]
+  }
+]

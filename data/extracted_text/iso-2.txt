@@ -1,0 +1,262 @@
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+525R2
+Document: ISO/TC 176/SC 2/N
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+1 Introduction
+Two of the most important objectives in the revision of the ISO 9000 series of standards have been
+a) to develop a simplified set of standards that will be equally applicable to small as well as
+medium and large organizations, and
+b) for the amount and detail of documentation required to be more relevant to the desired results
+of the organization’s process activities.
+ISO 9001:2008 Quality management systems – Requirements has achieved these objectives, and the
+purpose of this additional guidance is to explain the intent of the new standard with specific regard to
+documentation.
+ISO 9001:2008 allows an organization flexibility in the way it chooses to document its quality
+management system (QMS). This enables each individual organization to develop the minimum
+amount of documentation needed in order to demonstrate the effective planning, operation and control
+of its processes and the implementation and continual improvement of the effectiveness of its QMS.
+It is stressed that ISO 9001 requires (and always has required) a “Documented quality management
+system”, and not a “system of documents”.
+2 What is a “document”? - Definitions and references
+The following are some of the main objectives of an organization’s documentation, independent of
+whether or not it has implemented a formal QMS;
+a) Communication of Information
+- as a tool for information transmission and communication. The type and extent of the
+documentation will depend on the nature of the organization’s products and processes, the
+degree of formality of communication systems and the level of communication skills within
+the organization, and the organizational culture.
+b) Evidence of conformity
+- provision of evidence that what was planned, has actually been done.
+c) Knowledge sharing
+- to disseminate and preserve the organization’s experiences. A typical example would be a
+technical specification, which can be used as a base for design and development of a new
+product.
+A list of commonly used terms relating to documentation is presented in Annex A (taken from ISO
+9000:2005). It must be stressed that, according to ISO 9001:2008 clause 4.2 Documentation
+requirements documents may be in any form or type of medium, and the definition of “document” in
+ISO 9000:2005 clause 3.7.2 gives the following examples:
+− paper
+© ISO 2008 – All rights reserved 1 ISO/TC 176/SC 2/N 525R2
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+− magnetic
+− electronic or optical computer disc
+− photograph
+− master sample
+Users are also referred to ISO/TR 10013 Guidelines for quality management systems documentation
+for further guidance.
+3 ISO 9001:2008 Documentation Requirements
+ISO 9001:2008 clause 4.1 General requirements requires an organization to “establish, document,
+implement, and maintain a quality management system and continually improve its effectiveness in
+accordance with the requirements of this International Standard”
+Clause 4.2.1 General explains that the quality management system documentation shall include:
+a) documented statements of a quality policy and quality objectives;
+b) a quality manual
+c) documented procedures required by this International Standard
+d) documents needed by the organization to ensure the effective planning, operation and control of its
+processes, and
+e) records required by this International Standard;
+The notes after Clause 4.2 make it clear that where the standard specifically requires a “documented
+procedure”, the procedure has to be established, documented, implemented and maintained. It also
+emphasizes that the extent of the QMS documentation may differ from one organization to another due
+to:
+− the size of organization and type of activities;
+− the complexity of processes and their interactions, and
+− the competence of personnel.
+All the documents that form part of the QMS have to be controlled in accordance with clause 4.2.3 of
+ISO 9001:2008, or, for the particular case of records, according to clause 4.2.4.
+4 Guidance on Clause 4.2 of ISO 9001:2008
+The following comments are intended to assist users of ISO 9001:2008 in understanding the intent of
+the general documentation requirements of the International Standard.
+a) Documented statements of a quality policy and objectives:
+− Requirements for the quality policy are defined in clause 5.3 of ISO 9001:2008. The
+documented quality policy has to be controlled according to the requirements of clause
+4.2.3.
+Note Organizations that are revising their quality policy for the first time, or in order to meet the
+amended requirements in ISO 9001:2008, should pay particular attention to clause 4.2.3 (c), (d)
+and (g).
+− Requirements for quality objectives are defined in clause 5.4.1 of ISO 9001:2008. These
+documented quality objectives are also subject to the document control requirements of
+clause 4.2.3.
+b) Quality Manual:
+− Clause 4.2.2 of ISO 9001:2008 specifies the minimum content for a quality manual. The
+format and structure of the manual is a decision for each organization, and will depend on
+© ISO 2008 – All rights reserved 2 ISO/TC 176/SC 2/N 525R2
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+the organization’s size, culture and complexity. Some organizations may choose to use the
+quality manual for other purposes besides that of simply documenting the QMS
+− A small organization may find it appropriate to include the description of its entire QMS
+within a single manual, including all the documented procedures required by the standard.
+− Large, multi-national organizations may need several manuals at the global, national or
+regional level, and a more complex hierarchy of documentation.
+− The quality manual is a document that has to be controlled in accordance with the
+requirements of clause 4.2.3.
+c) Documented procedures:
+− ISO 9001:2008 specifically requires the organization to have “documented procedures” for
+the following six activities:
+ 4.2.3 Control of documents
+ 4.2.4 Control of records
+ 8.2.2 Internal audit
+ 8.3 Control of nonconforming product
+ 8.5.2 Corrective action
+ 8.5.3 Preventive action
+− These documented procedures have to be controlled in accordance with the requirements
+of clause 4.2.3
+− Some organizations may find it convenient to combine the procedure for several activities
+into a single documented procedure (for example, corrective action and preventive action).
+Others may choose to document a given activity by using more than one documented
+procedure (for example, internal audits). Both are acceptable.
+− Some organizations (particularly larger organizations, or those with more complex
+processes) may require additional documented procedures (particularly those relating to
+product realization processes) to implement an effective QMS.
+− Other organizations may require additional procedures, but the size and/or culture of the
+organization could enable these to be effectively implemented without necessarily being
+documented. However, in order to demonstrate compliance with ISO 9001:2008, the
+organization has to be able to provide objective evidence (not necessarily documented)
+that its QMS has been effectively implemented.
+d) Documents needed by the organization to ensure the effective planning, operation and control
+of its processes:
+− In order for an organization to demonstrate the effective implementation of its QMS, it may
+be necessary to develop documents other than documented procedures. However, the
+only documents specifically mentioned in ISO 9001:2008 are:
+ Quality policy (clause 4.2.1.a)
+ Quality objectives (clause 4.2.1.a)
+ Quality manual (clause 4.2.1.b)
+− There are several requirements of ISO 9001:2008 where an organization could add value
+to its QMS and demonstrate conformity by the preparation of other documents, even
+though the standard does not specifically require them. Examples may include:
+ Process maps, process flow charts and/or process descriptions
+ Organization charts
+ Specifications
+ Work and/or test instructions
+ Documents containing internal communications
+ Production schedules
+ Approved supplier lists
+ Test and inspection plans
+ Quality plans
+− All such documents have to be controlled in accordance with the requirements of clause
+4.2.3 and/or 4.2.4, as applicable
+e) Records:
+− Examples of records specifically required by ISO 9001:2008 are presented in Annex B.
+© ISO 2008 – All rights reserved 3 ISO/TC 176/SC 2/N 525R2
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+− Organizations are free to develop other records that may be needed to demonstrate
+conformity of their processes, products and quality management system.
+− Requirements for the control of records are different from those for other documents, and
+all records have to be controlled according to those of clause 4.2.4 of ISO 9001:2008.
+5 Organizations preparing to implement a QMS
+For organizations that are in the process of implementing a QMS, and wish to meet the requirements
+of ISO 9001:2008, the following comments may be useful.
+− For organizations that are in the process of implementing or have yet to implement a QMS,
+ISO 9001:2008 emphasizes a process approach. This includes:
+ determining the processes necessary for the effective implementation of the
+quality management system
+ determining the interactions between these processes.
+ documenting the processes to the extent necessary to assure their effective
+operation and control. (It may be appropriate to document the processes using
+process maps. It is emphasized, however, that documented process maps are not
+a requirement of ISO 9001:2008.)
+− These processes include the management, resource, product realization and
+measurement processes that are relevant to the effective operation of the QMS.
+− Analysis of the processes should be the driving force for defining the amount of
+documentation needed for the quality management system, taking into account the
+requirements of ISO 9001:2008. It should not be the documentation that drives the
+processes.
+6 Organizations wishing to adapt an existing QMS
+For organizations that currently have a QMS the following comments are intended to assist in
+understanding the changes to documentation that may be required or facilitated by the transition to ISO
+9001:2008
+− An organization with an existing QMS should not need to rewrite all of its documentation in
+order to meet the requirements of ISO 9001:2008. This is particularly true if an
+organization has structured its QMS based on the way it effectively operates, using a
+process approach. In this case, the existing documentation may be adequate and can be
+simply referenced in the revised quality manual.
+− An organization that has not used a process approach in the past will need to pay
+particular attention to the definition of its processes, their sequence and interaction.
+− An organization may be able to carry out some simplification and/or consolidation of
+existing documents, in order to simplify its QMS.
+7 Demonstrating conformity with ISO 9001:2008
+For organizations wishing to demonstrate conformity with the requirements of ISO 9001:2008, for the
+purposes of certification/registration, contractual, or other reasons, it is important to remember the
+need to provide evidence of the effective implementation of the QMS.
+− Organizations may be able to demonstrate conformity without the need for extensive
+documentation.
+− To claim conformity with ISO 9001:2008, the organization has to be able to provide
+objective evidence of the effectiveness of its processes and its quality management
+system. Clause 3.8.1 of ISO 9000:2005 defines “objective evidence” as “data supporting
+the existence or verity of something” and notes that “objective evidence may be obtained
+through observation, measurement, test, or other means.”
+© ISO 2008 – All rights reserved 4 ISO/TC 176/SC 2/N 525R2
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+− Objective evidence does not necessarily depend on the existence of documented
+procedures, records or other documents, except where specifically mentioned in ISO
+9001:2008. In some cases, (for example, in clause 7.1(d) Planning of product realization,
+and clause 8.2.4 Monitoring and measurement of product), it is up to the organization to
+determine what records are necessary in order to provide this objective evidence.
+− Where the organization has no specific internal procedure for a particular activity, and this
+is not required by the standard, (for example, clause 5.6 Management Review), it is
+acceptable for this activity to be conducted using as a basis the relevant clause of ISO
+9001:2008. In these situations, both internal and external audits may use the text of ISO
+9001:2008 for conformity assessment purposes.
+© ISO 2008 – All rights reserved 5 ISO/TC 176/SC 2/N 525R2
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+Annex A
+Terms and Definitions relating to Documents
+The following terms and definitions are taken from ISO 9000:2005:
+Term ISO 9000:2005 Definition
+Clause
+Document 3.7.2 information and its supporting medium
+Procedure 3.4.5 specified way to carry out an activity or a process (Note:
+Procedures can be documented or not)
+Quality Manual 3.7.4 document specifying the quality management system of an
+organization
+Quality Plan 3.7.5 document specifying which procedures and associated
+resources shall be applied by whom and when to a specific
+project, product, process or contract
+Record 3.7.6 document stating results achieved or providing evidence of
+activities performed
+Specification 3.7.3 document stating requirements
+© ISO 2008 – All rights reserved 6 ISO/TC 176/SC 2/N 525R2
+ISO 9000 Introduction and Support Package:
+Guidance on the Documentation Requirements of ISO 9001:2008
+Annex B
+Records required by ISO 9001:2008
+Clause Record required
+5.6.1 Management reviews
+6.2.2 e) Education, training, skills and experience
+7.1 d) Evidence that the realization processes and resulting product fulfil
+requirements
+7.2.2 Results of the review of requirements related to the product and actions
+arising from the review
+7.3.2 Design and development inputs relating to product requirements
+7.3.4 Results of design and development reviews and any necessary actions
+7.3.5 Results of design and development verification and any necessary actions
+7.3.6 Results of design and development validation and any necessary actions
+7.3.7 Results of the review of design and development changes and any necessary
+actions
+7.4.1 Results of supplier evaluations and any necessary actions arising from the
+evaluations
+7.5.2 d) As required by the organization to demonstrate the validation of processes
+where the resulting output cannot be verified by subsequent monitoring or
+measurement
+7.5.3 The unique identification of the product, where traceability is a requirement
+7.5.4 Customer property that is lost, damaged or otherwise found to be unsuitable
+for use
+7.6 a) Basis used for calibration or verification of measuring equipment where no
+international or national measurement standards exist
+7.6 Validity of the previous measuring results when the measuring equipment is
+found not to conform to requirements
+7.6 Results of calibration and verification of measuring equipment
+8.2.2 Internal audit results and follow-up actions
+8.2.4 Indication of the person(s) authorizing release of product.
+8.3 Nature of the product nonconformities and any subsequent actions taken,
+including concessions obtained
+8.5.2 e) Results of corrective action
+8.5.3 d) Results of preventive action
+© ISO 2008 – All rights reserved 7 ISO/TC 176/SC 2/N 525R2

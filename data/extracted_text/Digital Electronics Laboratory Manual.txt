@@ -1,0 +1,1470 @@
+Ss Ss a <s
+
+Pr DIF
+
+a
+
+Estd. 1999
+
+243, G T Road (North),
+Liluah, Howrah
+
+DEPARTMENT OF ELECTRONICS AND
+COMMUNICATION ENGINEERING
+
+Laboratory Instruction Sheets
+
+Digital Electronics Laboratory
+
+ES-EC392
+
+1
+
+x
+
+wewwweunuueeunuvvwvue VUvvuvube BUD UE YE EGG
+
+MCKV INSTITUTE OF ENGINEERING
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+
+Experiment No. 1: Realization of Basic gates (AND,OR,NOT) from Universal Gates(NAND &
+NOR).
+
+Objectives: To realize the operation of basic gates(AND,OR,NOT) using Universal logic gates.
+Theory:
+
+Universal Gates
+
+A universal gate is a gate which can implement any Boolean function without need to use any
+other gate. The NAND and NOR gates are universal gates. In practice, this is advantageous
+
+since NAND and NOR gates are economical and easier to fabricate and are the basic gates used
+in all IC digital logic families.
+
+NAND Gate
+
+The NAND gate represents the complement of the AND operation. Its name is an abbreviation of
+NOT AND. The symbol for the NAND gate consists of an AND symbol with a bubble on the
+output, denoting that a complement operation is performed on the output of the AND gate.
+
+A NAND
+B Y
+
+A|B
+0|0
+oO; 1
+1|0
+1] 1
+
+Orrell
+
+NOR Gate
+
+The NOR gate represents the complement of the OR operation. Its name is an abbreviation of
+NOT OR. The symbol for the NOR gate consists of an OR symbol with a bubble on the output,
+denoting that a complement operation is performed on the output of the OR gate.
+
+A Ce)
+Y
+s)>-
+
+A
+
+0/0
+0} 1
+1 | 0
+afi
+
+Z
+V~]
+<
+
+looor
+
+MCKVIE/Digital Electronics Lab/ES-E}C392
+
+
+9%
+
+te)
+
+GCGUUGVLUE
+
+GUE E LW w
+
+Cia On OE ORE OE ORL © LO EE CREO]
+
+YU CLES
+
+x U
+
+Truth tables :
+
+Truth tablcs
+XOT OR AND —
+
+A | ABY A|BIY
+$1 oo 0 oy} o}o
+
+1 0 o411 O11} o
+
+1 0 1 1] 0] 9
+
+11.1 1tifa
+
+Internal Configuration of IC’s 7400 and 7402:
+
+*YOS 43 a> tf 10g sor
+i ee ee ee
+
+— 7400
+
+|
+
+|
+
+2 3 6 ? 1 2 3 5 6 7
+OND cub
+Circuit Diagram :
+NOT gate
+NOT gate
+A L ) output A —o) > output
+AND gate
+A AND gate
+
+4 gg
+
+OR gate
+A
+A
+ib
+outpu —) >) > output
+s—] o—
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+vv ue UUs ere DHE UVDUVUwUS UD ome
+
+a ee ee
+
+Equipments Required:
+
+1. Bread board.
+
+2. 45 volt de supply.
+
+3. Connecting wires.
+
+4. Components.
+a. IC’s— 7400, 7402.
+b. Resistors.
+ec. LED's.
+
+Experimental Procedure :
+
+1. Low levels refer to 0 volt and high voltage refers to +5 volt.
+2. Verify the truth table.
+
+Results/Observations: All the truth tables are verified experimentally.
+
+Remarks :
+
+MCKVIE/Digital Electronics Lab/ES-E-C392
+
+~“*4*UUUCUKUEEE
+
+nn nv
+
+NOVY’ eyeuuns
+
+~~
+
+MCKV INSTITUTE OF ENGINEERING
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+SE CCE EE LAMEMOT MOLY
+
+ES-EC392
+
+given Boolcan function using logic gates in both SOP
+
+Experiment No. 2: Implementation of the
+
+and POS forms.
+
+Objectives: To Implement the given Boolean function using logic gates in both SOP
+and POS forms,
+i) AB+BC
+ii)(A+B).(B+C)
+
+Theory:
+Sum Of Products Form (SOP):
+
+of logic gates. In this SOP form of Boolean function representation, the variables are operated by
+AND (product) to form a product term and all these product terms are ORed (summed or added)
+
+together to get the final function, Each ANDed term in SOP form is called Minterm.
+
+Product Of Sum Form (POS):
+
+these sum terms are ANDed (multiplied) together to get the product-of-sum form. This form is
+exactly opposite to the SOP form. So this can also be said as “Dual of SOP form”. Each ORed
+
+term in POS form is called Maxterm.
+
+Truth tables :
+
+Truth tables
+_
+A | B C__| Q=aBeRc |
+0 0 0 0.
+0 0 I 0
+—T
+
+o | 4 o | 0
+of 4 1 1
+1 0 0 0 |
+1 0 1 0
+roy 0 1
+1 | 1 1
+
+MCKVIE/Digital Electronics Lab/BS-5C30)
+
+=
+
+ky
+Se
+
+ouvevueuws
+eeu anow oa eo bd wuUuUuUUue &
+Cn Ch Sit CRS an? a Oe © 7 ee
+
+2]
+
+VU
+
+oO UU Vv WU
+
+UU
+
+wa?
+
+A _ B Cc)
+
+0 0 - oO
+
+0 o | 4
+
+0 1 | oo
+
+0 1 7
+
+| 0 0
+
+1 0- 1
+| en
+ee ee ee Oe
+
+| Q=(A+ BBE)
+
+SOP Form
+
+Q AB+EC
+
+7432 Chsd 2 ingsutt OF
+
+IC 7432
+
+POS Form
+
+
+Guy
+
+Gaus
+
+“aueourd
+
+(On? nO ee? Deo)
+
+Ce On © ae © an © © as © Olan Ols On Cun © © ke le © ek © ee
+
+Equipments Required:
+
+1. Bread board.
+
+2. 45 volt de supply.
+
+3. Connecting wires.
+
+4. Components.
+a. IC's — 7408, 7432.
+b. Resistors.
+ec. LED's.
+
+Experimental Procedure :
+
+1. Low levels refer to 0 volt and high voltage refers to +5 volt.
+2. Verify the truth table.
+
+Results/Observations: All the truth tables are verified experimentally.
+
+Remarks :
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+S's
+
+&
+
+aouoUunrvrvd &
+
+wv)
+
+Uo YW
+
+Y
+
+VUOLOUL0UUULULUL V6 guUYU
+
+a
+
+MCKV INSTITUTE OF ENGINEERING
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+ES-EC392
+
+Experiment No 3: Design and Verify Adder, Subtractor circuit.
+Objective: To construct simple arithmetic circuits-Adder, Subtractor.
+Theory:
+
+HALF ADDER- adder takes two inputs A and B and produces a sum S bit and a carry out bit.
+This operation is called half addition and the circuit to realize it is called a half adder.
+
+FULL ADDER- full adder takes two inputs A and B and a Carry input and produces the Sum and
+Carry outputs.
+
+HALF SUBTRACTOR- subtracting a single-bit binary value B from anther A (Le. A -B)
+produces a difference bit D and a borrow out bit B-out. This operation is called half subtraction
+
+and the circuit to realize it is called a half subtractor.
+
+FULL SUBTRACTOR- subtracting two single-bit binary values, B, BORin from a single-bit
+value A produces a difference bit D and a borrow out BORout bit.
+
+Truth Table:
+
+HALF ADDER HALF SUBTRACTOR
+[INPUT | OUTPUT INPUT | OUTPUT
+A |B |S {fC A | B | D | B
+o | o | o | 0 of o|olo
+0 1 1 [0 o | 1 1 1
+1 0 1 0 1 | of 1/0
+ra fifo] “1 f1[o!fo |
+
+MCKVIE/Digital Electronics Lab/:S-E C392
+
+SSF NSO ND Nib
+tH
+
+1S
+
+DBD YD
+
+1]
+
+Ss
+
+OEE NSE Ne NN NSN NN NS NSD
+
+i
+
+—_
+
+FULL ADDER FULL SUBTRACTOR
+INPUT | OUTPUT INPUT | OUTPUT _|
+| A B men ; S Cout A B BORin dD BORou_
+o | 0] o |] 0 | 0 0 | 0 0 0 0 |
+o | oft | 0 0 | 0 | 1 1
+0 1 | o] 1] o o | 0 a {ot
+o{1/]/i1f]ofi 0. 1 | 0 1
+1 0 | 0 I 0 } 1 | oj] o ft | 0
+1 0 1 0 I 1 of; 1 | 0 0 |
+1 l 0 | 0 l 1 | 1 0 0 0
+1 1 1 1 1 1 | 1 1 1
+
+Circuit Diagram:
+
+Half Adder Half Subtractor
+
+A ‘ A
+B )> a B ) > ad
+c 5
+Full_ Adder Full_Subtractor
+
+Equipments Required:
+1. Bread Board
+
+2. +5V supply
+
+3. Connecting wires.
+
+4. Components
+a) IC’s 7486,7408,7404, 7432
+b) Resistors
+c) LED’s
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+4%
+
+u
+
+GouUUUKBOBUG
+
+YOu
+
+OD UY
+
+ve YU OUOUoeCUHCUHUUOUBUUUY
+
+we
+
+Experimental Procedure:
+
+1. Simplify the truth table and get the Boolean function to design the circuit USHTE
+Karnaugh
+map.
+2. Set the Set up the circuit, apply the inputs and observe the output.
+3. Verify the operation of the circuit.
+. Low levels refer to 0 volt and high voltage refers to 15 volt.
+
+£
+
+Result/Observation: All the truth tables are verified experimentally
+
+Remarks:
+
+MCKVIE/Digital Electronics Lab/ES-EC392——
+
+1? ne noe
+
+i)
+
+7 no)
+
+Zoo wots
+
+a) 0 Se See eee
+
+Y UV
+
+e VUVUU VU YUN UU UUOUUU YD &
+
+MCKV INSTITUTE OF ENGINEERING
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+ES-EC392
+
+Experiment No. 4: | Implementation and Verification of Decoder, Encoder, Multiplexer,
+Demultiplexer Circuit
+Objective: To implement and verify simple Decoder, Encoder, Multiplexer and
+Demultiplexer.
+
+Theory:
+
+Decoder:
+
+A n-to-2" decoder takes an n-bit input and produces 2" outputs. The n inputs represent a binary
+number that determines which of the 2" output is uniquely true. Decoders are simply a collection
+of logic gates which are arranged in a specific way so as to breakdown any combination of inputs
+to a set of terms that are all set to '0' apart from one term.
+
+Encoder:
+
+The decimal to binary encoder usually consists of 10 input lines and 4 output lines. Each input
+line corresponds to the each decimal digit and 4 outputs correspond to the BCD code. This
+encoder accepts the decoded decimal data as an input and encodes it to the BCD output which is
+available on the output lines.
+
+Multiplexer:
+
+A multiplexer, abbreviated mux, is a device that has multiple inputs and one output. A data
+selector, more commonly called a Multiplexer. They connect or control, multiple input lines
+called "channels" consisting of either 2, 4, 8 or 16 individual inputs, one at a time to an output.
+Multiplexers are used as one method of reducing the number of logic gates required in a circuit
+or when a single data line is required to carry two or more different digital signals.
+
+Generally, multiplexers have an even number of data inputs (2" ), a number of select lines (n)
+that correspond with the number of data inputs and according to the binary condition of these
+select lines, the appropriate data input is connected directly to the output.
+
+Demultiplexer:
+
+The process of getting information from one input and transmitting the same over one of many
+outputs is called Demultiplexing. If you recall the Multiplexer tutorial, there we discussed the
+concept of Multiplexing. Demultiplexing is just the opposite of that.A Demultiplexer is a
+combinational logic circuit that receives the information on a single input line and transmits the
+same information over one of ‘n’ possible output lines. In order to select a particular output, we
+have to use a set of Select Lines and the bit combinations of these select lines control the
+selection of specific output line to be connected to the input at a given instant,
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+SY
+
+~ VV OVO UYU UU HO UU UU UB YUUVUEDUUYL DUO UOUDDEG
+
+Truth Table:
+
+Decoder (2:4)
+
+INPUT
+xX | Y Bo
+0 0 l
+
+OUTPUT
+Bi Ba
+
+Multiplexer (2:1)
+
+Select line Output
+Ss Y
+0 10
+1 Il
+
+Y=S'IotSh
+
+Decimal to BCD Encoder
+
+INPUTS OUTPUTS
+Yo] Ys |) | Ye] Ys | Ya] Ys | Y2 | ¥: | Yo | As | Ar | Ar | Ao
+o01o1,0]0/0o0/]/o0f/o0f/o0fo0fif;/oj;/o/ojl|o
+o1o0)0/]/o0/o0f/o0f/o0fof/i/o]f/o]o 1
+o1o01010/;/o0{/o0f/o0/;/1/o0f/o0];/o0]/o/1]|o0
+dD)olotlololfofif;/ofofoflo/;foflif4
+d)o}lolo;ofilofof;/o;/oflofifofo
+o)oltol]ofi1{/o]/o0fo/o/o/ojifo]4
+olotlotfilojofoj/ofojfojo/jififo
+ofotlilojofofof/o;/o;fofo;ij}jijfa4
+o11atolo|!/ojfofoj/oj{ojo/ijojojo
+iiolotlfoflfoj|ololofojojijofoj|t
+
+MCKVIE/Digital Electronics Lab/ES-C392
+
+
+VY Vv
+
+oe
+
+Uv vv VU VU VY
+
+| \al
+] SS
+] 00
+I oO]
+] 10
+] 1
+Circuit Diagram:
+Decoder (2:4)
+x y
+— _
+\y | WV
+|
+|
+es es a Oe
+| a By=XY
+
+Demultiplexer
+
+MCKVIE/Digital Electronics Lab/ES-BC392
+
+pbb D
+
+|
+|
+
+10 0 0
+o1qo0
+00 1°90
+0001
+
+Multiplexer (2:1)
+
+I, I,
+— >—-o
+a ot
+—
+Decimal to BCD Encoder
+
+ee
+
+“a
+
+a ee
+7
+
+LZ
+
+cL
+
+SF Sa
+
+(@ @ @ UY VY
+
+(a ot,
+Usd YD
+
+VULU0000U0U0U
+
+puUuuUuUUuUuUVUUY
+
+u
+
+v
+
+sy
+
+i
+|
+
+ty)
+|
+dee
+
+‘
+YO Y1 Y2 Y3 Y4 YS Y6 Y7 YS Y9
+
+Equipments Required:
+
+1. Bread Board.
+
+2. +5V supply.
+
+3. Connecting wires.
+
+4. Components
+a. IC’s 7404, 7408,7432.
+b. Resistors.
+c. LED’s.
+
+Experimental Procedure:
+
+1. Set the Set up the circuit, apply the inputs and observe the cutput.
+2. Verify the operation of the circuit.
+3. Low levels refer to 0 volt and high voltage refers to +5 volt.
+
+Result/Observation: All the truth tables are verified experimentally.
+
+Remarks:
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+
+‘ee AS Ww J VP SF _ -
+
+NS
+
+MCKV INSTITUTE OF ENGINEERING
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronics Laboratory
+ES-EC392
+
+Experiment No §: Verification of the state tables of RS-JK, D and T flip-flops using
+
+Universal logic gates.
+
+Objectives: To realize the operation of RS-JK, D and T flip-flops using Universal logic
+gates.
+
+Theory :
+Sequential Logic Basics
+
+In Sequential Logic the change of state depends not only on the actual inputs being applied to
+their inputs at that time, but also on the previous output states. Sequential logic circuits are
+generally termed as two state or Bistable devices which can have their output or outputs set in
+one of two basic states, a logic level "1" or a logic level "0" and will remain unchanged
+indefinitely in this current state or condition until some other input trigger pulse or signal is
+applied which will cause the bistable to change its state once again.
+
+The word "Sequential" means that things happen in a "sequence", one after another and in
+Sequential Logic circuits, the actual clock signal determines when things will happen next.
+Simple sequential logic circuits can be constructed from standard Bistable circuits such as Flip-
+flops, Latches and Counters and which themselves can be made by simply connecting together
+universal NAND Gates and/or NOR Gates in a particular combinational way to produce the
+
+required sequential circuit.
+
+There are mainly four types of flip flops that are used in electronic circuits. They are
+
+1. The basic Flip Flop or S-R Flip Flop
+2. Delay Flip Flop [D Flip Flop]
+3. J-K Flip Flop
+4. T Flip Flop
+SR Flip-Flo
+
+The SR flip-flop can be considered as one of the most basic sequential logic circuit possible.
+This simple flip-flop is basically a one-bit memory bistable device that has two inputs, one which
+
+MCKVIE/Digital Electronics Lab/ES-EC392,——
+
+Lo re,
+
+a nn no ae Se Me ee ee Oe Se OD DO
+
+WY ft
+
+ee a a
+
+will "SET" the device (meaning. the output = "I"), and is labeled S and another which will
+"RESET" the device (meaning the output = "0"), labeled R.
+
+Then the SR description stands for "Sct-Reset". A basie NAND gate SR flip-flop circuit
+provides feedback from both of its outputs back to its opposing inputs and is commonly used in
+Memory circuits to store a single data bit. The term "Flip-flop" relates to the actual operation of
+the device, as it can be "flipped" into one logic Set state or "flopped" back into the opposing
+logic Reset state.
+
+JK Flip-flop
+
+This simple JK flip-Flop is the most widely used of all the flip-flop designs and is considered to
+be a universal flip-flop circuit. The sequential operation of the JK flip-flop is exactly the same as
+for the previous SR flip-flop with the same "Set" and "Reset" inputs. The difference this time is
+that the JK flip-flop has no invalid or forbidden input states of the SR Latch (when S and R are
+both 1).
+
+The circuit includes two 3-input NAND gates. The output Q of the flip flop is returned back as a
+feedback to the input of the NAND along with other inputs like K and clock pulse [CP].
+Similarly output Q’ of the flip flop is given as a feedback to the input of the NAND along with
+other inputs like J and clock pulse [CP].
+
+D Flip-flop
+
+D flip flop is actually a slight modification of the above explained clocked SR flip-flop. The D
+input is connected to the S input and the complement of the D input is connected to the R input.
+The D input is passed to the output of the flip flop when the value of CP is ’1'.
+
+T Flip-Flop
+
+In T flip flop, "T" defines the term "Toggle". The "T Flip Flop" has only one input, which is
+constructed by connecting the input of JK flip flop. This single input is called T.
+
+Truth Table:
+
+S [R OP Cik| J | K oP | ck | D | op
+t 0 0 | No Change Lt | 0 | 0 | No Change | t 0 0
+tlolil oo [® | o[1 0 | tT] 1] i
+t/i1 yo; 4 t | 1 [0 1
+tT 1 1 Forbidden +t 1 1 Toggle
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+Sows
+
+‘P wee
+
+De ee 2
+
+DwWwuu
+
+Oo vv uw
+
+UoUU VY UYU
+
+aw UO
+
+Internal configuration of be 7410:
+
+Circuit Diagram:
+
+SR FlipFlop
+
+TL ee
+
+D FlipFlop
+D
+Q
+CLE ©
+T Flip Flop
+
+MCKVIE/Digital Electronics Lab/ES-E.C392
+
+JK FlipFlop
+
+16 &
+
+
+(4 HB £
+
+OU DU ve UYDYD DTUYY DOU UYU BY GS
+
+«
+
+VU UO YOUU UY t
+
+4)
+
+Equipments Required:
+
+Bread Board
+
++ 5V supply
+
+. Connecting wires.
+
+. Components
+
+a. IC’s 7400,7410,7404
+b. Resistors
+
+c. Multimeter.
+
+d. LED’s
+
+Bwryw-—
+
+Experimental Procedure:
+1. Set the Set up the circuit,apply the inputs,and observe the output.
+2. Low levels refer to 0 volt and high voltage refers to +5 volt.
+3. Verify the trueh table.
+
+Result/Observation : All the truth tables are verified experimentally.
+
+Remarks :
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+tC
+
+(4 “4
+
+OW Gwase
+
+Boo wv
+
+DYDD Da
+
+YF UU UY
+
+vv VU VU ve © ©
+
+vw VU UY VU
+
+MCKV INSTITUTE OF ENGINEERING
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+ES-EC392
+
+Experiment No. 6: Design of Shifi Register using D Flip Flop
+
+Objective : To design a Shift Register using D Flip Flop and verification of truth table.
+
+Theory:
+
+Shift registers are a type of sequential logic circuit, mainly for storage of digital data. They are a group of
+flip-flops connected in a chain so that the output from one flip-flop becomes the input of the next flip-
+flop. All the flip-flops are driven by a common clock, and all are set or reset simultaneously. The serial
+in/serial out shift register accepts data serially — that is, one bit at a time on a single line. It produces the
+stored information on its output also in serial form. The serial in/parallel out shift register accepts data
+serially — that is, one bit at a time on a single line. It produces the stored information on its output in
+parallel form. The parallel in/serial out shift register accepts data in parallel. It produces the stored
+information on its output also in serial form. The parallel in/parallel out shift register accepts data in
+parallel. It produces the stored information on its output in parallel form.
+
+SERIAL IN SERIAL OUT:
+
+LOGIC DIAGRAM:
+PRE DATA
+T I | OUTPUT
+4 Ula jc = UB 4 u2za 10 -U2B
+~1PR ~2PR ~1PR ~2PR
+ale a 1D 10 fF 12) ap 204 7 ip 1g (X14) ap 20
+———+ ck -10- -beacix -~20 A CLK ~19 pe Ls 2ciuK ~29pS-
+CLK ~1CLR | ~2CLR ~1CLR ~2CLR
+1 74740 74740 1 7474N 7474N
+id is j 13
+CLR | |
+
+MCKVIE/Digital Electronics Lab/ES-EC392,——
+
+inane ee
+
+
+7 ne ne ee
+
+wu
+
+a an ee ee ee ee - 7:
+UUKUUDYDUDDUNRVY BUOU UO
+
+tw
+u
+
+OUTPUT WAVEFORM:
+
+TATA
+
+Output Waveforms of 4-bit Serial-in Serial-out Register
+
+TRUTH TABLE:
+Clk Serial in Serial out
+1 1 0
+2 0 0
+3 0 0
+4 0 1
+Equipments Required:
+1. Bread Board
+2. +5V supply
+3. Connecting wires.
+4. Components
+a. IC’s 7474
+
+b. Resistors
+c. Multimeter.
+d. LED’s
+
+Experimental Procedure:
+1. Set the Set up the circuit apply the inputs and observe the output.
+
+2. Low levels refer to 0 volt and high voltage refers to +5 volt.
+3. Verify the truth table.
+
+Result/Observation : All the truth tables are verified experimentally.
+
+Remarks :
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+t VYUUOUUVVOUH UU DEEDS DD DDD DOLD
+
+;
+
+s
+#5
+
+MCKV INSTITUTE OF ENGINEERING
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+ES-EC392
+
+Experiment No 7: Realization of Asynchronous Up/Down counter.
+Objectives: To realize the operation of Asynchronous Up/Down counter.
+Theory :
+
+A counter is a sequential cireuit with a set of flip flop which counts the number of pulses given at
+the clock input. The number of flip-flops determines the count limit or number of states.
+
+(No of states = 2 7° of Mp Mops)
+
+In asynchronous counter only the first flip-flop is clocked by an external clock. All subsequent
+flip-flops are clocked by the output of the preceding flip-flop. Asynchronous counters are slower
+than synchronous counters because of the delay in the transmission of the pulses from flip-flop to
+flip-flop. Asynchronous counters are also called ripple-counters because of the way the clock
+pulse nipples it way through the flip-flops.
+
+A up /down asynchronous counter must be able to count both up and down. The circuit below is
+a 2-bit up-down counter. It counts up or down depending on the status of the control signal M.
+When the M input is at 0, the OR and AND network between FFO and FF1 will gate the non-
+inverted output (Q) of FFO to the clock input of FFl. Thus the counter will count up.
+
+When the M input is at 1, the OR and AND network between FFO and FF1 will gate the inverted
+output (Q) of FFO to the clock input of FF1. Thus the counter will count down.
+
+Truth Table:
+
+Up_Counter(for M=0) Down Counter (for M=1)
+Clk Ql QO Clk Ql Qo
+Ll 0 0 L 0 0
+v | 0 J L 1 1
+
+iv 1 0 y 1 0. |
+Yo} tio fod —wv | 0 |
+
+| vw} 9 | 0] Lv | o 0
+
+MCKVIE/Digital Electronics Lab/ES-(C392_
+
+"PU SD 8S a
+
+Le)
+
+7” a” > en? ne ee ee Oe Se 2
+
+o0oU we & UYU
+
+VoOOoVOOUU Ot
+
+u
+
+Circuit Diagram:
+
+Meo"
+
+Equipments Required:
+
+. Bread Board
+
+. +5V supply
+. Connecting wires.
+. Components
+a. IC’s 7473,7408,7432,7404
+b. Resistors
+c. Multimeter.
+d. LED’s
+
+hwWwWN
+
+Experimental Procedure:
+
+1. Set the Set up the circuit, apply the inputs and observe the output.
+2. Low levels refer to 0 volt and high voltage refers to +5 volt.
+3. Verify the operation of the circuit. .
+
+Result/Observations : All the truth tables are verified experimentally.
+
+Remarks:
+
+MCKVIE/Digital Electronics Lab/ES-EC392——
+
+
+Sn ne” A ee
+
+a
+
+Le
+
+rFuuywe
+
+7Vvuresuwvaeusy
+
+vw
+
+“YVVYVUUVuUUUUG
+
+DL.
+
+MCKV INSTITUTE OF ENGINEERING
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+
+Experiment No 8: Realization of Synchronous Up/Down counter.
+Objectives: To realize the Operation of Synchronous Up/Down counter.
+Theory :
+
+A counter is a sequential circuit with a set of flip flop which counts the number of pulses given at
+the clock input. The number of flip-flops determines the count limit or number of states.
+
+(No of states = 2 ° of flip Mops)
+
+Here all the flip-flops are clocked simultaneously by an external clock. Synchronous counters are
+faster than asynchronous counters because of the simultaneous clocking. Synchronous counters
+are an example of state machine design because they have a set of states and a set of transition
+tules for moving between those states after each clocked event.
+
+A up /down synchronous counter must be able to count both up and down. The circuit below is a
+2-bit up-down counter. It counts up or down depending on the status of the control signal M.
+When the M input is at 0, the OR and AND network between FFO and FF1 will gate the non-
+inverted output (Q) of FFO to the J and K inputs of FF1. Thus the counter will count up.
+
+When the M input is at 1, the OR and AND network between FFO and FF1 will gate the inverted
+output (Q) of FFO to the J and K input of FF1. Thus the counter will count down.
+
+Truth Table:
+
+Up _Counter(for M=0) Down Counter (for M=1)
+
+chk [ Qt | Qo | f ck | Qi | 00
+v 0 0 | VY |_o 0
+[v 0 1 v fr
+vf 1/0 v | 0
+[ v I 1 v 0 1
+v 0 0 v [0 0
+
+MCKVIE/Digital Electronics Lab/ES-EC3 92
+
+pw UU YD FS A BY
+
+ee 4
+
+i J
+
+.
+> ee
+
+ws
+
+cen
+w
+
+er
+
+ww
+
+Oe Oe OR Oe © ee Oe w)
+
+iA
+
+DP fa
+
+; uw
+wvwvuvueuse ;
+vuvvuvvuU UU VL ww
+
+ww
+
+~
+
+Circuit Diagram:
+
+Meas | oO
+
+! 2
+hi
+ye
+
+Equipments Required:
+
+1. Bread Board
+2. +5V supply
+3. Connecting wires.
+4. Components
+a. IC’s 7473,7408,7432,7404
+b. Resistors
+c. Multimeter.
+d. LED’s
+
+Experimental Procedure:
+
+1. Set the Set up the circuit, apply the inputs and observe the output.
+2. Low levels refer to 0 volt and high voltage refers to +5 volt.
+3. Verify the operation of the circuit.
+
+Result/Observation : All the truth tables are verified experimentally.
+
+Remarks:
+
+MCKVIE/Digital Electronics Lab/S-£C392
+
+
+UV VeuvDVvV VV we wT TF TF UY VY YF Se Nee
+
+ewvvvVoe Vv UU UU
+
+Se
+
+MCKV INSTITUTE OF ENGINEERING
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+
+Experiment No 9: Realization of Ring counter & Johnson’s counter.
+Objectives: To realize the operation of Ring counter & Johnson’s counter.
+Theory:
+
+Ring Counter:
+
+Ring counters are implemented using shift registers. It is essentially a circulating shift register
+connected so that the last flip-flop shifts its value into the first flip-flop. There is usually only a
+single 1 circulating in the register, as long as clock pulses are applied. (Starts
+100>010>001 repeat). To initialize the operation of the ring counter, it is necessary to set the first
+flip-flop and reset second and third flip flops simultaneously as shown in the figure.
+
+Johnson Counter:
+
+The Johnson counter, also known as the twisted-ring counter, is exactly the same as the ring
+counter except that the inverted output of the last flip-flop is connected to the input of the first
+flip-flop. Let’s say, starts from 000, 100, 110, 111, O11 and 001, and the sequence is repeated so
+long as there is input pulse. To initialize the operation of the Johnson counter, it is necessary to
+reset all flip-flops, as shown in the figure.
+
+Observe that neither the Johnson nor the ring counter will generate the desired counting sequence
+if not initialized properly.
+
+Truth Table:
+Ring counter Johnson counter
+[go [Qi |Q2 Qo Qi Qs |
+{1 0 0 0 0 0
+rf 1 0 1 0 0
+0 |o 1 1 1 0
+1 1 1
+0 1 |i
+0 0 1
+0 0 0
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+
+wp ueuUvVU DY BSF FG MY
+
+i a sn le
+
+7 J
+
+wT eww
+
+wv
+
+Circuit Diagram:
+
+logict
+
+fa]
+nm
+A) eee
+lig
+|
+|
+Khor
+
+fer be]
+[cro [curs
+
+Johnson’s Counter
+
+Equipments Required:
+. Bread Board
+
+. +5V supply
+
+. Connecting wires.
+
+. Components
+a. IC’s 7474
+b. Resistors
+c. Multimeter.
+d. LED’s
+
+BRWNe
+
+Experimental Procedure:
+1. Set the Set up the circuit, apply the inputs and observe the output.
+
+2. Switch on the ckt, connect M=0 momentarily then make M=1.
+3. Low levels refer to 0 volt and high voltage refers to +5 volt.
+4. Verify the operation of the circuit.
+
+Result/Observation ; All the truth tables are verified experimentally.
+Remarks:
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+PRPS RFPUUUPSRDWewwel
+
+vu UU VY SF SOU oY
+
+MCKV INSTITUTE OF ENGINEERING
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Digital Electronic Laboratory
+ES-EC392
+
+Experiment No. 10: Study of D/A Converter and A/D Converter Circuit
+
+Objective : To study the characteristics of DAC using R-2R ladder circuit and To
+study the characteristics of ADC 0804,
+
+DAC:
+Theory :
+
+Digital to analog and analog to digital conversion form two very important aspects of digital
+data processing. As an example the output of digital system may be changed to analog form for
+the purpose of driving a pen recorder. In this case a digital to analog converter (DAC) is
+necessary. DAC converts a digital signal into an equivalent analog voltage. Two convenient
+methods of converting digital signals are
+
+1. Binary weighted network. Q
+2. Binary ladder network.
+
+Binary ladder network
+The binary ladder is resistive network whose output voltage is a proper sum of the digital inputs.
+
+The resistors used here have two values and thus overcomes one of the objections to the binary
+weighted network. Such a ladder designed for 4 bits, is shown in Figure.
+
+1 2
+yo 2
+£2R 22R 22R
+|
+ma vi, | AN, AN,
+— R R R
+
+If we study the network, we can conclude that the total equivalent resistance looking from any
+node (A or B or C or D) back toward the terminating resistor or out toward the digital input is
+2R. This is true regardless of whether the digital inputs are at ground or +V .The conclusion is
+true assuming that the digital inputs are ideal voltage sources.
+
+(Zero internal impedance).
+
+We can use this characteristics to determine the output voltages for various digital inputs.
+
+MCKVIE/Digital Electronics Lab/:S-E.C392—
+
+g6
+
+Starting from LSB each bit of DAC has weight (V/16, (V/8), (V/4) and (V/2) Volts respectively,
+where V is the voltage input to each bit of DAC.
+
+Input Output |
+
+0001 | «WIG
+0010 V/8
+0100 V/A
+1000 V/2
+
+An OPAMP in voltage follower mode can be used at the output as it has high input impedance so
+that the circuitry connected at the output will not load the resistance network.
+
+Equipments Required:
+Bread Board
++ 5V supply
+Connecting wires.
+Components
+a.IC’s 741
+b. Resistors 1kohm, 2kohm
+c. Multimeter.
+d. LED’s
+
+Aw
+
+ircuit Diagram:
+
++2 Hey Hay
+
+ y 1K at eo eae hi ‘pi 1K a a
+
+vy Le
+
+28Kn = hee - ne
+
+ky
+ore)
+=
+. ss
+a
+iS +
+) @ \ fo
+
+-12 Vv
+(b) Binary Ladder Network
+Experimental Results:
+No. of | Digital Input Analog Output
+Obs. | 2 | 2 | 2! 2° Calculated Value Practical Value
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+24
+
+vr Ye ow we
+
+vray
+
+ADC:
+
+Theory:
+
+(B) The process of converting an analog voltage into an equivalent digital signal ts
+known as analog to digital conversion (ADC). This operation is somewhat more
+complicated than converse operation of D/A Conversion. A number of different
+methods have been developed which are
+
+(C) (a) Simultancous conversion type
+
+(D) (b) Ramp type.
+
+(E) (c) Successive approximation type.
+
+(F) (d) Integrating type. ‘
+
+(G) (ec) Counter type.
+
+(H) (f) Dual slope type.
+Successive approximation type ADC and integrating type ADC are most common. In our
+
+experiment we have used ADC 0804 Chip, which is a successive approximation type
+ADC. It has 8-bit digital output, one channel analog input; one reference voltage has to
+
+be supplied to it.
+
+Circuit Diagram:
+
+°
+x
+
+coy
+
+Equipments/Components Required for ADC:
+
+1. IC 0804
+2. Signal generator
+3. Power supply (+5V)
+4. Capacitor 150pf
+5. Resistor 2KQ, 10KQ
+6. 10KQ pot
+7. LED
+
+MCKVIE/Digital Electronics Lab/ES-EC392
+
+SN
+
+Ve
+
+Procedure:
+
+Make circuit connection as shown in fig
+
+A 2.5V reference de voltage 1s to be provided at
+
+l.
+
+5
+
+3. A variable Voltage (analog input) is prov
+Analog voltages ranging from 0) to5 volt
+
++
+
+ided
+
+0.5 volt and in each step note the digital output.
+
+Experimental results:
+
+24%
+
+pin 9 by alOKQ trim pot.
+
+at pin 6 by alOKQ.
+is applicd to the
+
+Input of the conversion steps of
+
+7—_—
+
+| Digital output
+
+| Analog _| Decimal Equivalent
+input Dr | Do | of Digital Output
+
+| De Ds Da Ds D2 Di
+
+|
+
+|
+
+Remarks:
+
