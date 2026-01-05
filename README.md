@@ -68,10 +68,11 @@ Intel-Unnati-Industrial-Training-2025-Problem-Statement-4/
 │
 ├── .gitignore
 └── README.md
-
+```
 ---
 
-###🛠️ Technologies Used
+### 🛠️ Technologies Used
+
 
 | Category         | Tools                    |
 | ---------------- | ------------------------ |
@@ -84,7 +85,9 @@ Intel-Unnati-Industrial-Training-2025-Problem-Statement-4/
 | PDF Parsing      | pdfplumber, camelot      |
 | Image Processing | OpenCV, PIL              |
 
-🧪 How to Run the Project (Quick Start)
+
+### 🧪 How to Run the Project (Quick Start)
+
 1️⃣ Clone the Repo
 git clone https://github.com/salmali922/Intel-Unnati-Industrial-Training-2025-Problem-Statement-4.git
 cd Intel-Unnati-Industrial-Training-2025-Problem-Statement-4
@@ -95,26 +98,24 @@ pip install -r src/requirements.txt
 3️⃣ Run the App
 streamlit run src/app.py
 
-
 Once started, navigate to:
-
 http://localhost:8501
 
-💬 Demo Video & Showcase
+### 💬 Demo Video & Showcase
 
 🎥 The working demo video is in the demo/ folder.
 
 If the file is too large, a link to watch the demo is provided there.
 
-📊 Performance Evaluation
+### 📊 Performance Evaluation
 
 Detailed performance evaluation including OCR accuracy, retrieval precision, and response times is available in:
-
 benchmarks/Performance_Evaluation.md
 
 
 Screenshots demonstrating the pipeline and metrics are provided under:
 
 benchmarks/screenshots/
+
 
 
