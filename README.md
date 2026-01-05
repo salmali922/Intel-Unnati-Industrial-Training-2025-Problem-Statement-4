@@ -69,7 +69,9 @@ Intel-Unnati-Industrial-Training-2025-Problem-Statement-4/
 ├── .gitignore
 └── README.md
 
-🛠️ Technologies Used
+---
+
+###🛠️ Technologies Used
 
 | Category         | Tools                    |
 | ---------------- | ------------------------ |
@@ -114,4 +116,5 @@ benchmarks/Performance_Evaluation.md
 Screenshots demonstrating the pipeline and metrics are provided under:
 
 benchmarks/screenshots/
+
 
